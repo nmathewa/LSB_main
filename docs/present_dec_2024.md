@@ -43,6 +43,8 @@ theme: default
 2. For smaller regions (such as islands) there is no dominant wind direction.
 3. There are no studies/models that predict the onset of land-sea breeze for smaller regions (or even for larger regions).
 
+![w:599](image-5.png)
+
 
 ---
 
@@ -51,7 +53,7 @@ theme: default
 - A simple index that will predict the onset of land-sea breeze based on single column data. 
 
 
-
+![alt text](image-6.png)
 
 ---
 
@@ -76,8 +78,6 @@ theme: default
 
 ### Questions 
 
-1. What might be a best method to approach this problem? (in terms of deep learning)
+1. What might be a best method to approach this problem? 
 
-2. This is not a well studied/ researched area. What I am thinking is about the right approach?
-
-3. Can we use genetic algorithms to tune the model? ( or to find the best variables to predict the onset of land-sea breeze)
+2. Can we use genetic algorithms to tune the model? ( or to find the best variables that can predict land-sea breeze)
