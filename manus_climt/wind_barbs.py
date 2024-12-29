@@ -10,6 +10,7 @@ import xarray as xr
 import pandas as pd 
 import os 
 import glob 
+import matplotlib.pyplot as plt 
 
 
 file_test = '/media/nmathewa/nma_backup/Datasets/Datasets/Processed_interpsonde/interpsonde_manus/*.nc'
