@@ -1,0 +1,112 @@
+2025-02-08 10:58:15,249 - distributed.nanny - INFO -         Start Nanny at: 'tcp://172.26.1.11:44393'
+2025-02-08 10:58:15,252 - distributed.nanny - INFO -         Start Nanny at: 'tcp://172.26.1.11:35203'
+2025-02-08 10:58:15,292 - distributed.nanny - INFO -         Start Nanny at: 'tcp://172.26.1.11:38625'
+2025-02-08 10:58:15,301 - distributed.nanny - INFO -         Start Nanny at: 'tcp://172.26.1.11:39647'
+2025-02-08 10:58:15,319 - distributed.nanny - INFO -         Start Nanny at: 'tcp://172.26.1.11:39581'
+2025-02-08 10:58:17,305 - distributed.worker - INFO -       Start worker at:    tcp://172.26.1.11:38619
+2025-02-08 10:58:17,304 - distributed.worker - INFO -       Start worker at:    tcp://172.26.1.11:38927
+2025-02-08 10:58:17,305 - distributed.worker - INFO -          Listening to:    tcp://172.26.1.11:38927
+2025-02-08 10:58:17,305 - distributed.worker - INFO -          Listening to:    tcp://172.26.1.11:38619
+2025-02-08 10:58:17,305 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-1
+2025-02-08 10:58:17,305 - distributed.worker - INFO -          dashboard at:          172.26.1.11:34355
+2025-02-08 10:58:17,305 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-2
+2025-02-08 10:58:17,305 - distributed.worker - INFO -          dashboard at:          172.26.1.11:33243
+2025-02-08 10:58:17,305 - distributed.worker - INFO - Waiting to connect to:   tcp://10.42.239.61:39799
+2025-02-08 10:58:17,305 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:17,306 - distributed.worker - INFO -               Threads:                          2
+2025-02-08 10:58:17,306 - distributed.worker - INFO -                Memory:                  18.63 GiB
+2025-02-08 10:58:17,306 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-tqnxa333
+2025-02-08 10:58:17,306 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:17,306 - distributed.worker - INFO - Waiting to connect to:   tcp://10.42.239.61:39799
+2025-02-08 10:58:17,306 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:17,306 - distributed.worker - INFO -               Threads:                          2
+2025-02-08 10:58:17,306 - distributed.worker - INFO -                Memory:                  18.63 GiB
+2025-02-08 10:58:17,306 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-1oatnedb
+2025-02-08 10:58:17,306 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:17,309 - distributed.worker - INFO -       Start worker at:    tcp://172.26.1.11:46471
+2025-02-08 10:58:17,309 - distributed.worker - INFO -          Listening to:    tcp://172.26.1.11:46471
+2025-02-08 10:58:17,309 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-0
+2025-02-08 10:58:17,309 - distributed.worker - INFO -          dashboard at:          172.26.1.11:33639
+2025-02-08 10:58:17,309 - distributed.worker - INFO - Waiting to connect to:   tcp://10.42.239.61:39799
+2025-02-08 10:58:17,309 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:17,309 - distributed.worker - INFO -               Threads:                          2
+2025-02-08 10:58:17,309 - distributed.worker - INFO -                Memory:                  18.63 GiB
+2025-02-08 10:58:17,309 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-lqv79rw1
+2025-02-08 10:58:17,309 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:17,318 - distributed.worker - INFO -       Start worker at:    tcp://172.26.1.11:40957
+2025-02-08 10:58:17,318 - distributed.worker - INFO -          Listening to:    tcp://172.26.1.11:40957
+2025-02-08 10:58:17,318 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-3
+2025-02-08 10:58:17,318 - distributed.worker - INFO -          dashboard at:          172.26.1.11:36943
+2025-02-08 10:58:17,318 - distributed.worker - INFO - Waiting to connect to:   tcp://10.42.239.61:39799
+2025-02-08 10:58:17,318 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:17,318 - distributed.worker - INFO -               Threads:                          2
+2025-02-08 10:58:17,318 - distributed.worker - INFO -                Memory:                  18.63 GiB
+2025-02-08 10:58:17,318 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-q3cwh5dt
+2025-02-08 10:58:17,318 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:17,387 - distributed.worker - INFO -       Start worker at:    tcp://172.26.1.11:35493
+2025-02-08 10:58:17,387 - distributed.worker - INFO -          Listening to:    tcp://172.26.1.11:35493
+2025-02-08 10:58:17,387 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-4
+2025-02-08 10:58:17,388 - distributed.worker - INFO -          dashboard at:          172.26.1.11:42139
+2025-02-08 10:58:17,388 - distributed.worker - INFO - Waiting to connect to:   tcp://10.42.239.61:39799
+2025-02-08 10:58:17,388 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:17,388 - distributed.worker - INFO -               Threads:                          2
+2025-02-08 10:58:17,388 - distributed.worker - INFO -                Memory:                  18.63 GiB
+2025-02-08 10:58:17,388 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-bts06g6n
+2025-02-08 10:58:17,388 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:19,283 - distributed.worker - INFO - Starting Worker plugin shuffle
+2025-02-08 10:58:19,283 - distributed.worker - INFO -         Registered to:   tcp://10.42.239.61:39799
+2025-02-08 10:58:19,283 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:19,283 - distributed.worker - INFO - Starting Worker plugin shuffle
+2025-02-08 10:58:19,284 - distributed.core - INFO - Starting established connection to tcp://10.42.239.61:39799
+2025-02-08 10:58:19,284 - distributed.worker - INFO -         Registered to:   tcp://10.42.239.61:39799
+2025-02-08 10:58:19,284 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:19,285 - distributed.core - INFO - Starting established connection to tcp://10.42.239.61:39799
+2025-02-08 10:58:19,294 - distributed.worker - INFO - Starting Worker plugin shuffle
+2025-02-08 10:58:19,295 - distributed.worker - INFO -         Registered to:   tcp://10.42.239.61:39799
+2025-02-08 10:58:19,295 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:19,295 - distributed.core - INFO - Starting established connection to tcp://10.42.239.61:39799
+2025-02-08 10:58:19,296 - distributed.worker - INFO - Starting Worker plugin shuffle
+2025-02-08 10:58:19,297 - distributed.worker - INFO -         Registered to:   tcp://10.42.239.61:39799
+2025-02-08 10:58:19,297 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:19,298 - distributed.core - INFO - Starting established connection to tcp://10.42.239.61:39799
+2025-02-08 10:58:19,301 - distributed.worker - INFO - Starting Worker plugin shuffle
+2025-02-08 10:58:19,302 - distributed.worker - INFO -         Registered to:   tcp://10.42.239.61:39799
+2025-02-08 10:58:19,302 - distributed.worker - INFO - -------------------------------------------------
+2025-02-08 10:58:19,302 - distributed.core - INFO - Starting established connection to tcp://10.42.239.61:39799
+2025-02-08 10:58:25,178 - distributed.core - INFO - Connection to tcp://10.42.239.61:39799 has been closed.
+2025-02-08 10:58:25,178 - distributed.core - INFO - Connection to tcp://10.42.239.61:39799 has been closed.
+2025-02-08 10:58:25,179 - distributed.worker - INFO - Stopping worker at tcp://172.26.1.11:46471. Reason: worker-handle-scheduler-connection-broken
+2025-02-08 10:58:25,179 - distributed.core - INFO - Connection to tcp://10.42.239.61:39799 has been closed.
+2025-02-08 10:58:25,179 - distributed.worker - INFO - Stopping worker at tcp://172.26.1.11:38927. Reason: worker-handle-scheduler-connection-broken
+2025-02-08 10:58:25,179 - distributed.core - INFO - Connection to tcp://10.42.239.61:39799 has been closed.
+2025-02-08 10:58:25,181 - distributed.worker - INFO - Stopping worker at tcp://172.26.1.11:40957. Reason: worker-handle-scheduler-connection-broken
+2025-02-08 10:58:25,181 - distributed.worker - INFO - Stopping worker at tcp://172.26.1.11:35493. Reason: worker-handle-scheduler-connection-broken
+2025-02-08 10:58:25,179 - distributed.core - INFO - Connection to tcp://10.42.239.61:39799 has been closed.
+2025-02-08 10:58:25,183 - distributed.worker - INFO - Stopping worker at tcp://172.26.1.11:38619. Reason: worker-handle-scheduler-connection-broken
+2025-02-08 10:58:25,188 - distributed.nanny - INFO - Closing Nanny gracefully at 'tcp://172.26.1.11:44393'. Reason: worker-handle-scheduler-connection-broken
+2025-02-08 10:58:25,188 - distributed.nanny - INFO - Closing Nanny gracefully at 'tcp://172.26.1.11:35203'. Reason: worker-handle-scheduler-connection-broken
+2025-02-08 10:58:25,188 - distributed.worker - INFO - Removing Worker plugin shuffle
+2025-02-08 10:58:25,189 - distributed.nanny - INFO - Closing Nanny gracefully at 'tcp://172.26.1.11:39647'. Reason: worker-handle-scheduler-connection-broken
+2025-02-08 10:58:25,191 - distributed.worker - INFO - Removing Worker plugin shuffle
+2025-02-08 10:58:25,191 - distributed.nanny - INFO - Closing Nanny gracefully at 'tcp://172.26.1.11:38625'. Reason: worker-handle-scheduler-connection-broken
+2025-02-08 10:58:25,192 - distributed.nanny - INFO - Closing Nanny gracefully at 'tcp://172.26.1.11:39581'. Reason: worker-handle-scheduler-connection-broken
+2025-02-08 10:58:25,192 - distributed.worker - INFO - Removing Worker plugin shuffle
+2025-02-08 10:58:25,192 - distributed.worker - INFO - Removing Worker plugin shuffle
+2025-02-08 10:58:25,193 - distributed.worker - INFO - Removing Worker plugin shuffle
+2025-02-08 10:58:25,193 - distributed.nanny - INFO - Worker closed
+2025-02-08 10:58:25,194 - distributed.nanny - INFO - Worker closed
+2025-02-08 10:58:25,194 - distributed.nanny - INFO - Worker closed
+2025-02-08 10:58:25,195 - distributed.nanny - INFO - Worker closed
+2025-02-08 10:58:25,196 - distributed.nanny - INFO - Worker closed
+2025-02-08 10:58:27,223 - distributed.nanny - ERROR - Worker process died unexpectedly
+2025-02-08 10:58:27,828 - distributed.nanny - INFO - Closing Nanny at 'tcp://172.26.1.11:38625'. Reason: nanny-close-gracefully
+2025-02-08 10:58:27,828 - distributed.nanny - INFO - Nanny at 'tcp://172.26.1.11:38625' closed.
+2025-02-08 10:58:27,844 - distributed.nanny - INFO - Closing Nanny at 'tcp://172.26.1.11:39647'. Reason: nanny-close-gracefully
+2025-02-08 10:58:27,845 - distributed.nanny - INFO - Nanny at 'tcp://172.26.1.11:39647' closed.
+2025-02-08 10:58:27,935 - distributed.nanny - INFO - Closing Nanny at 'tcp://172.26.1.11:44393'. Reason: nanny-close-gracefully
+2025-02-08 10:58:27,935 - distributed.nanny - INFO - Nanny at 'tcp://172.26.1.11:44393' closed.
+2025-02-08 10:58:28,058 - distributed.nanny - INFO - Closing Nanny at 'tcp://172.26.1.11:39581'. Reason: nanny-close-gracefully
+2025-02-08 10:58:28,058 - distributed.nanny - INFO - Nanny at 'tcp://172.26.1.11:39581' closed.
+2025-02-08 10:58:28,080 - distributed.nanny - INFO - Closing Nanny at 'tcp://172.26.1.11:35203'. Reason: nanny-close-gracefully
+2025-02-08 10:58:28,080 - distributed.nanny - INFO - Nanny at 'tcp://172.26.1.11:35203' closed.
+2025-02-08 10:58:28,081 - distributed.dask_worker - INFO - End worker
