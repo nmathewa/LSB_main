@@ -62,6 +62,8 @@ sonde_all_dft['date'] = sonde_all_dft['datetime'].dt.date
 
 new_count = (sonde_all_dft.groupby('date').count()['filepath']).to_frame()
 
+
+
 new_count_sond = new_count[new_count['filepath'] >= 3]
 
 
@@ -73,8 +75,6 @@ date_range = pd.date_range(start=new_count.index[0],
                            freq='D').date
 
 
-new_count_sond_re = new_count_sond.reindex(date_range)
 
-
-
+new_count_sond.to_csv('/home/nmathewa/main/LSB_main/stats/sonde_with_data.csv')
 
