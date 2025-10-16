@@ -42,6 +42,11 @@ ENV N8N_BASIC_AUTH_ACTIVE=true
 ENV N8N_BASIC_AUTH_USER=testuser
 ENV N8N_BASIC_AUTH_PASSWORD=testpassword
 
+
+RUN mkdir -p /home/node/.n8n && chown -R node:node /home/node/.n8n
+
+VOLUME ["/home/node/.n8n"]
+
 # Switch to non-root user
 USER node
 
