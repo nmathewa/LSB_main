@@ -82,8 +82,25 @@ class config_creator:
             print(f'Folder {self.name} already exists')
             raise FileExistsError()
         else:
-            os.mkdir(f'{self.basepath}/{self.name}')
+            proj_dir = f'{self.basepath}/{self.name}'
+            os.mkdir(proj_dir)
+            os.mkdir(f'{proj_dir}/Datasets')
+            os.mkdir(f'{proj_dir}/Reports')
+            os.mkdir(f'{proj_dir}/Plots')
+            os.mkdir(f'{proj_dir}/extras')
+            
+            
             dft_project.to_csv(f'{self.basepath}/{self.name}/config.csv',index=None)
+            print(f'{self.basepath}/{self.name}/config.csv')
+        ### tree directory 
+        """
+        -- Project Name 
+            -- config.csv 
+            -- Datasets
+            -- Reports
+            -- Plots
+            -- extras
+        """
         
 
 #%%
@@ -94,7 +111,6 @@ if __name__ == '__main__':
     args = sys.argv[1:]
     args[1] = float(args[1])
     args[2] = float(args[2])
-    1
     config_creator(args=args).create_project()
     
 

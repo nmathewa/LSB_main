@@ -14,7 +14,12 @@ RUN apt-get update && apt-get install -y \
     python3-pip \
     bzip2 \
     ca-certificates \
+    pandoc \
+    texlive-full \
     && rm -rf /var/lib/apt/lists/*
+
+
+
 
 # Detect architecture and install appropriate Miniconda
 ARG ARCH
@@ -32,6 +37,9 @@ RUN ARCH=$(uname -m) && \
 
 # Add conda to PATH
 ENV PATH="/opt/conda/bin:$PATH"
+
+
+
 
 # Install n8n globally
 RUN npm install -g n8n
