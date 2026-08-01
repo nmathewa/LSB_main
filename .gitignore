@@ -6,3 +6,16 @@
 *.h5
 *.hdf5
 *.tif
+
+# Secrets - never commit
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+n8n_hpc_key
+.cdsapirc
+.netrc
+
+# OS
+.DS_Store
