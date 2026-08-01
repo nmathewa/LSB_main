@@ -1,119 +1,73 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec  5 14:15:58 2025
-
-@author: nalex2023
-"""
-
-import pandas as pd 
-import os
 import sys
+import os
+import pandas as pd
+import json
 
 class config_creator:
     
-    def __init__(self,args):
-        # get all json variables 
-        #1. Project name / name 
-        #2. lat 3. lon , start date (DD/MM/YYYY)
-        #4. end date (DD/MM/YYYY)
+    def __init__(self, args):
         self.name = args[0]
-        self.lat = args[1]
-        self.lon = args[2]
+        self.lat = float(args[1])
+        self.lon = float(args[2])
         self.start = args[3]
         self.end = args[4]
-        self.basepath = '/projects'
-        
-        
-    
-    def check_dft(self):
-        
-        if isinstance(self.name, str):
-            pass
-        else:
-            raise ValueError
-        
-        if isinstance(self.lat, float):
-            pass 
-        else:
-            raise ValueError
-        
-        if isinstance(self.lon, float):
-            pass
-        else:
-            raise ValueError
-        
-        if isinstance(self.start, str):
-            pass 
-        else:
-            raise ValueError
-        
-        return None 
-    
+        self.basepath = '/projects' 
     
     def create_dft(self):
-        st_dt = pd.to_datetime(self.start,
-                               format='%d/%m/%Y')
+        st_dt = pd.to_datetime(self.start, format='%d/%m/%Y')
+        et_dt = pd.to_datetime(self.end, format='%d/%m/%Y') 
         
-        et_dt = pd.to_datetime(self.start,
-                               format='%d/%m/%Y')
-        
+        # Create DataFrame
+        # We use str() here to ensure dates are JSON-compatible strings immediately
         project_dft = pd.DataFrame([{
-                            'Name': self.name,
-                                    'Latitude': self.lat,
-                                    'Longitude': self.lon,
-                                    'Start Date': st_dt,
-                                    'End Date': et_dt
-                                    }])
+            'Name': self.name,
+            'Latitude': self.lat,
+            'Longitude': self.lon,
+            'Start Date': str(st_dt), 
+            'End Date': str(et_dt)    
+        }])
         
         return project_dft
     
-    
-    def create_project(self,test=False):
-        
+    def create_project(self, test=False):
+        """
+        Creates the folders and returns a JSON-ready Dictionary.
+        """
         dft_project = self.create_dft()
-        
-        if test:
-            wrd_cu = os.getcwd()
-            os.mkdir(f'{wrd_cu}/{self.name}')
-            dft_project.to_csv(f'{wrd_cu}/{self.name}/config.csv')
-        
-        if os.path.isdir(f'{self.basepath}/{self.name}'):
-            print(f'Folder {self.name} already exists')
-            raise FileExistsError()
+        proj_dir = f'{self.basepath}/{self.name}'
+
+        # 1. Folder Creation Logic
+        if os.path.isdir(proj_dir):
+            sys.stderr.write(f"Folder {self.name} already exists skipping\n")
         else:
-            proj_dir = f'{self.basepath}/{self.name}'
-            os.mkdir(proj_dir)
-            os.mkdir(f'{proj_dir}/Datasets')
-            os.mkdir(f'{proj_dir}/Reports')
-            os.mkdir(f'{proj_dir}/Plots')
-            os.mkdir(f'{proj_dir}/extras')
-            
-            
-            dft_project.to_csv(f'{self.basepath}/{self.name}/config.csv',index=None)
-            print(f'{self.basepath}/{self.name}/config.csv')
-        ### tree directory 
-        """
-        -- Project Name 
-            -- config.csv 
-            -- Datasets
-            -- Reports
-            -- Plots
-            -- extras
-        """
+            try:
+                os.makedirs(f'{proj_dir}/Datasets', exist_ok=True)
+                os.makedirs(f'{proj_dir}/Reports', exist_ok=True)
+                os.makedirs(f'{proj_dir}/Plots', exist_ok=True)
+                os.makedirs(f'{proj_dir}/extras', exist_ok=True)
+                dft_project.to_csv(f'{proj_dir}/config.csv', index=None)
+                sys.stderr.write(f"Created config at {proj_dir}/config.csv\n")
+            except Exception as e:
+                sys.stderr.write(f"Error creating directories: {e}\n")
+
+        # 2. CONVERSION LOGIC (Moved Inside Function)
+        # Convert the DataFrame to a single Dictionary object
+        project_dict = dft_project.to_dict(orient='records')[0]
         
+        return project_dict
 
-#%%
-                    
-   
+if __name__ == "__main__":
+    # 1. Get arguments
+    if len(sys.argv) < 6:
+        input_args = ["Manus", "-2.0", "147.0", "01/10/2011", "01/10/2011"]
+    else:
+        input_args = sys.argv[1:]
 
-if __name__ == '__main__':
-    args = sys.argv[1:]
-    args[1] = float(args[1])
-    args[2] = float(args[2])
-    config_creator(args=args).create_project()
+    # 2. Run Class
+    creator = config_creator(input_args)
     
+    # Now this returns a clean dictionary directly
+    result = creator.create_project()
 
-        
-
-    
+    # 3. Print JSON to stdout
+    print(json.dumps(result))
