@@ -19,3 +19,6 @@ n8n_hpc_key
 
 # OS
 .DS_Store
+
+# Raw ERA5 downloads (extensionless HDF5)
+LSB_APP/Docker_files/projects/Manus/Datasets/ERA5_dsets/
