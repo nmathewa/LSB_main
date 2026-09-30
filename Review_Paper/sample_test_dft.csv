@@ -1,0 +1,34 @@
+id,Title,Authors,Year,Author Keywords,Source
+1,Surface,Narayanan,1966,Surface,dummy source
+2,Surface,Hamza and Babu,2007,Surface,dummy source
+3,Surface,Rani et al.,2010,Surface,dummy source
+4,Surface,Nair et al.,2011,Surface,dummy source
+5,Surface,Subrahamanyam et al.,2011,Surface,dummy source
+6,Surface,Anurose,2011,Surface,dummy source
+7,Surface,KiranKumar et al.,2019,Surface,dummy source
+8,Surface,Reddy et al.,2021,Surface,dummy source
+9,Surface,Williams et al.,2022,Surface,dummy source
+10,Surface,North et al.,2025,Surface,dummy source
+11,Scatterometer,Guille et al.,"2003, 2005",Scatterometer,dummy source
+12,Scatterometer; Regional atmospheric model outputs,Brown et al.,2017,Scatterometer; Regional atmospheric model outputs,dummy source
+13,Surface,Watts,1955,Surface,dummy source
+14,Surface,Biggs and Graves,1962,Surface,dummy source
+15,Surface,Lyons,1972,Surface,dummy source
+16,Surface,Steyn and Faulkner,1986,Surface,dummy source
+17,Surface,Laird et al.,2001,Surface,dummy source
+18,Surface; Infrared satellite imagery,Lensky and Dayan,2012,Surface; Infrared satellite imagery,dummy source
+19,Surface,Xiao et al.,2023,Surface,dummy source
+20,Surface,Guo et al.,2023,Surface,dummy source
+21,Surface,Miller and Keim,2003,Surface,dummy source
+22,Surface,Azorin-Molina et al.,2011,Surface,dummy source
+23,Model outputs,Xia et al.,2022,Model outputs,dummy source
+24,Reanalysis; Satellite; Radar,Bao et al. ,2023,Reanalysis; Satellite; Radar,dummy source
+25,Visible satellite imagery,Damato et al.,2003,Visible satellite imagery,dummy source
+26,Visible satellite imagery,Planchon et al. ,2006,Visible satellite imagery,dummy source
+27,Visible satellite imagery,Corpetti and Planchon,2011,Visible satellite imagery,dummy source
+28,Visible satellite imagery,Ferdiansyah et al.,2020,Visible satellite imagery,dummy source
+29,Visible satellite imagery,Allagbe et al.,2025,Visible satellite imagery,dummy source
+30,AI/ML,Sokolov et al. 2020,2020,AI/ML,dummy source
+31,AI/ML,Roy et al. 2022,2022,AI/ML,dummy source
+32,AI/ML,Krishnamoorthy et al. (2023),2023,AI/ML,dummy source
+33,AI/ML,Allagbe et al. (2025),2025,AI/ML,dummy source
