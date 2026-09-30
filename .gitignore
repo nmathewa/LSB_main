@@ -1,2 +1,30 @@
+*.nc
+*.zip
+*.tar
+*.cdf
+*.nc4
+*.h5
+*.hdf5
+*.tif
+
+# Secrets - never commit
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+n8n_hpc_key
+.cdsapirc
+.netrc
+
+# OS
+.DS_Store
+
+# Raw ERA5 downloads (extensionless HDF5)
+LSB_APP/Docker_files/projects/Manus/Datasets/ERA5_dsets/
+
 __pycache__/
 *.pyc
+
+# SSH keys
+n8n_hpc_key*

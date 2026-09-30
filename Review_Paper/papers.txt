@@ -1,0 +1,375 @@
+
+Abbs DJ, Physick WL (1992) Sea-breeze observations and modeling: A review. Aust Meteor Mag 41:7–19
+ 
+Allagbe TD, Guedje FK, Arnaud HVV, Quenum GMLD (2025) An automatic detection algorithm for sea breeze fronts: a case study over the Gulf of Guinea in West Africa. Atmospheric and Climate Sciences 15:330-361. https://doi.org/10.4236/acs.2025.152017
+ 
+Allouche M, Iipponen J, Bou-Zeid E (2025) Unsteady land-sea breeze circulations in the presence of a synoptic pressure forcing. Journal of Geophysical Research: Atmospheres 130, e2023JD040708. https://doi.org/10.1029/2023JD040708
+
+Antonelli M, Rotunno R (2007) Large-Eddy Simulation of the Onset of the Sea Breeze. J Atmos Sci. 64:4445–4457. https://doi.org/10.1175/2007JAS2261.1 
+
+
+Anurose TJ, Subrahamanyam DB, Dutt CBS, KiranKumar NVP, John SR, Nair SK, Santosh M, Mohan M, Kunhikrishnan K, Sijikumar S, Prijith SS (2012) Vertical structure of sea-breeze circulation over Thumba (8.5°N, 76.9°E, India) in the winter months and a case study during W-ICARB field experiment. Meteorol Atmos Phys 115:113-121. https://doi.org/10.1007/s00703-011-0178-0 
+ 
+Arritt RW (1993) Effects of the large-scale flow on characteristic features of the sea breeze. J Appl Meteorol 32, 116–125. https://doi.org/10.1175/1520-0450(1993)032%3C0116:EOTLSF%3E2.0.CO;2 
+
+
+Atkins NT, Wakimoto RM, Weckwerth TM (1995) Observations of the sea-breeze front during CaPE. Part II: Dual-Doppler and aircraft analysis. Mon Wea Rev 123:944–969. https://doi.org/10.1175/1520-0493(1995)123%3C0944:OOTSBF%3E2.0.CO;2
+ 
+Atkinson BW (1981) Mesoscale Atmospheric Circulations. Academic Press, pp 495
+
+
+Azorin-Molina C, Chen D (2009) A climatological study of the influence of synoptic-scale flows on sea breeze evolution in the Bay of Alicante (Spain). Theor Appl Climatol 96:249–260. https://doi.org/10.1007/s00704-008-0028-2
+
+
+Azorin-Molina C, Chen D, Tijm S, Baldi M (2009ab) A multi-year study of sea breezes in a Mediterranean coastal site: Alicante (Spain). Int J Climatol 31(3):468–486. https://doi.org/10.1002/joc.2064
+
+Azorin-Molina C, Connell BH, Baena-Calatrava RB (2009b) Sea-Breeze Convergence Zones from A VHRR over the Iberian Mediterranean Area and the Isle of Mallorca, Spain. J Appl Meteor Climatol 48:2069-2085. https://doi.org/10.1175/2009JAMC2141.1
+Azorin-Molina C, Tijm S, Chen D (2011) Development of selection algorithms and databases for sea breeze studies. Theor Appl Climatol 106, 531–546. https://doi.org/10.1007/s00704-011-0454-4
+
+
+Banfield CE (1991) The frequency and surface characteristics of sea breezes at St. John's, Newfoundland. Climatological Bulletin, 25:3-20
+ 
+Banta RM (1995) Sea-breezes shallow and deep on the California coast. Mon Wea Rev 123: 3614–3622. https://doi.org/10.1175/1520-0493(1995)123%3C3614:SBSADO%3E2.0.CO;2
+
+
+Bao S, Pietrafesa L, Gayes P, Noble S, Viner B, Qian J-H, Werth D, Mitchell G, Burdette S (2023) Mapping the spatial footprint of sea breeze winds in the southeastern United States. Journal of Geophysical Research: Atmospheres, 128:e2022JD037524. https://doi.org/10.1029/2022JD037524 
+ 
+Barbato JP (1978) Areal parameters of the sea breeze and its vertical structure in the Boston basin. Bull Amer Meteor Soc 59:1420-1431. https://doi.org/10.1175/1520-0477(1978)059%3C1420:APOTSB%3E2.0.CO;2
+ 
+Bastin S, Drobinski P (2005) Temperature and wind velocity oscillations along a gentle slope during sea breeze events. Boundary-Layer Meteorology 114:573–594. https://doi.org/10.1007/s10546-004-1237-6
+
+Bedoya-Valestt S, Rozas-Larraondo P, Azorin-Molina C, Cafaro C, Gimeno L, Minola L, Guijarro JA, Dunn R, Aguilar E, Brunet M (2022) A deep learning approach for identifying coastal sea breezes globally. In: EMS Annual Meeting 2022, Bonn, Germany, European Meteorological Society, Abstract EMS2022-522, Vol. 19, https://doi.org/10.5194/ems2022-522
+ 
+Berri GJ, Paegle J (1990) Sensitivity of local predictions to initial conditions. J Appl Meteor Climatol 29:256–267. https://doi.org/10.1175/1520-0450(1990)029%3C0256:SOLPTI%3E2.0.CO;2 
+
+
+Bianco L, Tomassetti B, Coppola E, Fracassi A, Verdecchia M, Visconti G (2006) Thermally driven circulation in a region of complex topography: comparison of wind-profiling radar measurements and MM5 numerical predictions. Ann Geophys 24:1537–1549. https://doi.org/10.5194/angeo-24-1537-2006
+
+Biggs WG, Graves ME (1962) A lake breeze index. J Appl Meteor Climatol, 1(4):474–480. https://doi.org/10.1175/1520-0450(1962)001<0474:albi>2.0.co;2
+ 
+Blanchard DO, López RE (1985) Spatial patterns of convection in south Florida. Mon Wea Rev 113:1282-1299. https://doi.org/10.1175/1520-0493(1985)113%3C1282:SPOCIS%3E2.0.CO;2
+  
+Borne K, Chen D, Nunez M (1998) A method for finding sea breeze days under stable synoptic conditions and its application to the Swedish west coast. Int J Climatol 18:901–914. https://doi.org/10.1002/(SICI)1097-0088(19980630)18:8<901::AID-JOC295>3.0.CO;2-F.
+
+
+Brittain OW (1978) Forecasting sea-breezes at Eskmeals. Meteorol Mag 107:88-96.
+Brown AL, Vincent CL, Lane TP, Short E, Nguyen H (2017) Scatterometer estimates of the tropical sea-breeze circulation near Darwin, with comparison to regional models. QJR Meteorol Soc 143:2818-2831. https://doi.org/10.1002/qj.3131
+Carbone RE, Wilson JW, Keenan TD, Hacker JM (2000) Tropical island convection in the absence of significant topography. Part I: Life cycle of diurnally forced convection. Mon Wea Rev 128:3459–3480. https://doi.org/10.1175/1520-0493(2000)128%3C3459:TICITA%3E2.0.CO;2
+
+Cautenet S, Rosset R, (1989) Numerical simulation of sea breezes with vertical wind shear during dry season at Cape of Three Points, West Africa. Mon Wea Rev 117:329–339. https://doi.org/10.1175/1520-0493(1989)117%3C0329:NSOSBW%3E2.0.CO;2 
+
+
+Cenedese A, Miozzi M, Monti P. (2000) A laboratory investigation of land and sea breeze regimes. Experiments in Fluids 29(7):291–299. https://doi.org/10.1007/S003480070031.
+
+Chelton DB, Freilich MH, Esbensen SK (2000) Satellite observations of the wind jets off the Pacific coast of Central America. Part I: Case studies and statistical characteristics. Mon Wea Rev 128:1993–2018. https://doi.org/10.1175/1520-0493(2000)128%3C1993:SOOTWJ%3E2.0.CO;2 
+
+Chiba O (1993) The turbulent characteristics in the lowest part of the sea breeze front in the atmospheric surface layer. Boundary Layer Meteorology 65:181-195. https://doi.org/10.1007/BF00708823. 
+ 
+Clarke RH (1955) Some observations and comments on the sea breeze. Aust Meteorol Mag 11:47-68.
+ 
+Clarke RH (1984) Colliding sea-breezes and the creation of internal atmospheric bore waves: two-dimensional numerical studies. Aust Meteorol Mag 32: 207–226
+
+Connell BH, Gould KJ, Purdom, JFW (2001) High-Resolution GOES-8 Visible and Infrared Cloud Frequency Composites over Northern Florida during the Summers 1996-99. Wea Forecasting 16:713-724. https://doi.org/10.1175/1520-0434(2001)016%3C0713:HRGVAI%3E2.0.CO;2. 
+ 
+Corpetti T, Planchon O (2011) Front detection on satellite images based on wavelet and evidence theory: Application to the sea breeze fronts. Remote Sens Environ 115:306–324. https://doi.org/10.1016/j.rse.2010.09.003.
+
+Crook NA (2001) Understanding Hector: The Dynamics of Island Thunderstorms. Mon Wea Rev 129:1550-1563. https://doi.org/10.1175/1520-0493(2001)129%3C1550:UHTDOI%3E2.0.CO;2
+
+Crosman E, Horel JD (2010) Sea and lake breezes: A review of numerical studies. Boundary-Layer Meteorol 137:1–29. https://doi.org/10.1007/s10546-010-9517-9
+
+
+Damato F, Planchon O, Dubreuil, V (2003) A remote-sensing study of the inland penetration of sea-breeze fronts from the English Channel. Weather 58:219-226. https://doi.org/10.1256/wea.50.02
+
+
+Davis WM, Ward RD (1889) An investigation of the sea-breeze. New England Meteorological Society.
+
+
+Defant F (1951) Local Winds. In: Malone TF (ed) Compendium of Meteorology, 3rd edn. American Meteorological Society, p 1334
+
+
+Di Bernardino A, Iannarelli AM, Casadio S, Pisacane G, Mevi G, Cacciani M (2022) Classification of synoptic and local-scale wind patterns using k-means clustering in a Tyrrhenian coastal area (Italy). Meteorol Atmos Phys 134:30. https://doi.org/10.1007/s00703-022-00871-z. 
+ 
+Drobinski P, Bastin S, Dabas AM, Delville P, Reitebuch O (2006) Variability of the three-dimensional sea-breeze structure in southeastern France: observations and evaluation of empirical scaling laws. Ann Geophys 24:1783–1799. https://doi.org/10.5194/angeo-24-1783-2006
+ 
+Drobinski P, Dubos T (2009) Linear breeze scaling: from large-scale land/sea breezes to mesoscale inland breezes. QJR Meteorol Soc 135:1766-1775. https://doi.org/10.1002/qj.496
+ 
+Estoque MA (1962) The Sea Breeze as a Function of the Prevailing Synoptic Situation. J Atmos Sci 19:244–250. https://doi.org/10.1175/1520-0469(1962)019<0244:TSBAAF>2.0.CO;2.
+
+
+Estoque MA (1961) A theoretical investigation of the sea breeze. QJR Meteorol Soc 87: 136–136. https://doi.org/10.1002/qj.49708737203 
+
+
+Ferdiansyah MR, Inagaki A, Kanda M (2020) Detection of sea-breeze inland penetration in the coastal-urban region using geostationary satellite images. Urban Climate 31-100586 https://doi.org/10.1016/j.uclim.2020.100586.
+ 
+Finkele K, Hacker JM, Kraus H, Byron-Scott, RAD (1995) A complete sea-breeze circulation cell-derived from aircraft observations. Boundary-Layer Meteorol 73:299–317. https://doi.org/10.1007/BF00711261
+
+
+Fisher EL (1961) A theoretical study of the sea breeze. J Atmos Sci 18:216–233. https://doi.org/10.1175/1520-0469(1961)018%3C0216:ATSOTS%3E2.0.CO;2 
+
+
+Fosberg, MA, Schroeder MJ (1966) Marine air penetration in central California. J Appl Meteor 5:573–598. https://doi.org/10.1175/1520-0450(1966)005%3C0573:MAPICC%3E2.0.CO;2
+
+
+Frysinger JR, Lindner BL, Brueske SL (2003) A statistical sea-breeze prediction algorithm for Charleston, South Carolina. Wea Forecasting 18:614–625. https://doi.org/10.1175/1520-0434(2003)018<0614:ASSPAF>2.0.CO;2.
+ 
+Furberg M, Steyn DG, Baldi M (2002) The climatology of sea breezes on Sardinia. Int J Climatol 22(8):917–932. https://doi.org/10.1002/joc.780
+ 
+Gahmberg M, Savijarvi H, Leskinen M (2009) The influence of synoptic scale flow on sea breeze induced surface winds and calm zones. Tellus A 62:209–217. https://doi.org/10.1111/j.1600-0870.2009.00423.x
+
+
+Geshelin, YS (1998) Thermally driven wind circulation near ocean fronts. Physics and Chemistry of the Earth 23:605-607. https://doi.org/10.1016/S0079-1946(98)00082-2 
+
+
+Gille ST, Llewellyn Smith SG, Lee SM (2003), Measuring the sea breeze from QuikSCAT Scatterometry, Geophys Res Lett 30:1114. https://doi.org/10.1029/2002GL016230
+
+Gille ST, Llewellyn Smith SG, Statom NM (2005) Global observations of the land breeze. Geophys Res Lett 32:L05605. https://doi.org/10.1029/2004GL022139
+
+Gille ST, Llewellyn Smith SG (2014) When land breezes collide: Converging diurnal winds over small bodies of water. QJR Meteorol Soc 140(685):2573-2581. https://doi.org/10.1002/qj.2322
+
+Golding B, Clark P, May B (2006) The Boscastle flood: Meteorological analysis of the conditions leading to flooding on 16 August 2004. Weather 60:230–235. https://doi.org/10.1256/wea.71.05
+
+
+Guo Z, Cao L, Guo J, Shang M, Guo X (2023) On three types of sea breeze in Qingdao of East China: an observational analysis. Front Environ Sci 11:1188952. https://doi.org/10.3389/fenvs.2023.1188952
+
+
+Gustavsson T, Lindqvist S, Borne K, Bogren J (1995) A study of sea and land breezes in an archipelago on the west coast of Sweden. Int J Climatol 15:785–800. https://doi.org/10.1002/joc.3370150706.
+ 
+Hadi TW, Horinouchi T, Tsuda T, Hashiguchi H, Fukao S (2002) Sea-Breeze circulation over Jakarta, Indonesia: a climatology based on boundary layer radar observations. Mon Wea Rev 130:2153–2166. https://doi.org/10.1175/1520-0493(2002)130<2153:SBCOJI>2.0.CO;2.
+
+
+Hall C (1954) Forecasting the Lake Breeze and Its Effects on Visibility at Chicago MidwayAirport. Bull Amer Meteor Soc 35:105-111. https://doi.org/10.1175/1520-0477-35.3.105
+
+Halley E (1686) An historical account of the trade winds and the monsoons, observable in the seas between and near the Tropicks, with an attempt to assign the physical cause of the said winds. Phil Trans Roy Soc 16:153-168. https://doi.org/10.1098/rstl.1686.0026 
+
+Hallgren C, Körnich H, Ivanell S, Sahlée E (2023) A Single-Column Method to Identify Sea and Land Breezes in Mesoscale-Resolving NWP Models. Wea Forecasting 38:1025–1039. https://doi.org/10.1175/WAF-D-22-0163.1.
+ 
+Hamza V, Babu CA (2007) Boundary layer characteristics associated with sea breeze circulation over Cochin. Mausam 58(1):75-86. https://doi.org/10.54302/mausam.v58i1.1134. 
+ 
+Hewson TD (1998) Objective fronts. Met Apps 5(1):37–65. https://doi.org/10.1017/S1350482798000553
+ 
+Holmer B, Haeger-Eugensson M (1999) Winter land breeze in a high latitude complex coastal area. Physical Geography 20:152–172. https://doi.org/10.1080/02723646.1999.10642674.
+
+
+Hsu SA (1984) Sea-breeze-like winds across the north wall of the Gulf Stream: An analytical model. J Geophys Res 89(C2):2025-2028. https://doi.org/10.1029/JC089iC02p02025 
+ 
+Hu X-M, Xue M (2016) Influence of synoptic sea-breeze fronts on the urban heat island intensity in Dallas–Fort Worth, Texas. Mon Wea Rev 144:1487–1507. https://doi.org/10.1175/MWR-D-15-0201.1
+
+
+Hughes CP, Veron DE, (2018) A Characterization of the Delaware Sea Breeze Using Observations and Modeling. J Appl Meteor Climatol. 57:1405-1421. https://doi.org/10.1175/JAMC-D-17-0186.1
+
+
+Huth R, Beck C, Philipp A, Demuzere M, Ustrnul Z, Cahynová M, Kyselý J, Tveito OE (2008) Classifications of Atmospheric Circulation Patterns. Annals of the New York Academy of Sciences 1146:105-152. https://doi.org/10.1196/annals.1446.019
+
+Intrieri JM, Little CG, Shaw WJ, Banta RM, Durkee PA , Hardesty RM (1990). The Land/Sea Breeze Experiment (LASBEX). Bull Amer Meteor Soc 71(5):656–664. https://doi.org/10.1175/1520-0477-71.5.656
+
+Jeffreys H, 1922: On the dynamics of wind. QJR Meteorol Soc 48:29–46. https://doi.org/10.1002/qj.49704820105 
+
+Jenkner J, Sprenger M, Schwenk I, Schwierz C, Dierer S, Leuenberger D (2010) Detection and climatology of fronts in a high-resolution model reanalysis over the Alps. Met Apps 17:1-18. https://doi.org/10.1002/met.142
+ 
+Jiang Q (2012) A Linear Theory of Three-Dimensional Land–Sea Breezes. J Atmos Sci 69(6): 1890–1909. https://doi.org/10.1175/JAS-D-11-0137.1
+
+Khan B, Abualnaja Y, Al-Subhi AM, Nellayaputhenpeedika M, Nellikkattu Thody M, Sturman AP (2018) Climatology of sea breezes along the Red Sea coast of Saudi Arabia. Int J Climatol 38:3633–3650. https://doi.org/10.1002/joc.5523
+ 
+KiranKumar NVP, Jagadeesh K, Niranjan K, Rajeev K (2019) Seasonal variations of sea breeze and its effect on the spectral behaviour of surface layer winds in the coastal zone near Visakhapatnam, India. Journal of Atmospheric and Solar-Terrestrial Physics 186:1-7. https://doi.org/10.1016/j.jastp.2019.01.013
+ 
+Kitayama H, Katayama T, Hayashi T, Tsutsumi J, Ishii A (1991) Statistical analysis of the sea-land breeze and its effect on the air temperature in summer. Journal of Wind Engineering and Industrial Aerodynamics 38(2-3):93-99. https://doi.org/10.1016/0167-6105(91)90031-Q
+
+
+Krishnamoorthy A, Sharma D, Goyal R (2023) A Machine Learning Approach to Forecast Wind Speed, Turbulence Intensity, and Sea Breeze for Offshore Wind Farm Applications. https://doi.org/10.2139/ssrn.4620501
+
+
+Laird NF, Kristovich DAR, Liang X-Z, Arritt RW, Labas K (2001) Lake Michigan lake breezes: climatology, local forcing, and synoptic environment. J Appl Meteor 40:409–424. https://doi.org/10.1175/1520-0450(2001)040%3C0409:LMLBCL%3E2.0.CO;2
+
+Lappin F, Bell T, Klein P, de Boer G (2025) Quantifying the thermodynamic impacts on the atmospheric boundary layer due to the sea breeze in the coastal Houston region. J Appl Meteor Climatol 64(6):607-623. https://doi.org/10.1175/JAMC-D-24-0203.1 
+
+Lensky IM, Dayan U (2012) Continuous detection and characterization of the Sea Breeze in clear sky conditions using Meteosat Second Generation. Atmos Chem Phys 12:6505–6513. https://doi.org/10.5194/acp-12-6505-2012
+
+Lombardo K, Sinsky E, Jia Y, Whitney MM, and Edson J (2016) Sensitivity of simulated sea breezes to initial conditions in complex coastal regions. Mon Wea Rev 30:1299–1320. https://doi.org/10.1175/MWR-D-15-0306.1
+ 
+Lyons WA (1972) The climatology and prediction of the Chicago lake breeze. J Appl Meteor 11: 1259–1270. https://doi.org/10.1175/1520-0450(1972)011<1259:TCAPOT>2.0.CO;2
+
+
+Maloney ED, Gettelman A, Ming Y, Neelin JD, Barrie D, Mariotti A, Chen C-C, Coleman DRB, Kuo Y-H, Singh B, Annamalai H, Berg A, Booth JF, Camargo SJ, Dai A, Gonzales A, Hafner J, Jiang X, Jing X, Kim D, Kumar A, Moon Y, Naud CM, Sobel AH, Suzuki K, Wang F, Wang J, Wing AA, Xu X, Zhao M (2019) Process-oriented evaluation of climate and weather forecasting models. Bull Amer Meteor Soc 100:1665-1686. https://doi.org/10.1175/BAMS-D-18-0042.1 
+
+
+McCabe EJ, Freedman JM (2023) Development of an Objective Methodology for Identifying the Sea-Breeze Circulation and Associated Low-Level Jet in the New York Bight. Wea Forecasting  38:571–589. https://doi.org/10.1175/WAF-D-22-0119.1.
+
+
+Miao JF, Kroon L, Vilà-Guerau de Arellano J, Holtslag AAM (2003) Impacts of topography and land degradation on the sea breeze over eastern Spain. Meteorol Atmos Phys 84:157–170. https://doi.org/10.1007/s00703-002-0579-1.
+
+Miller STK, Keim BD (2003) Synoptic-Scale Controls on the Sea Breeze of the Central New England Coast. Wea Forecasting 18:236-248. https://doi.org/10.1175/1520-0434(2003)018%3C0236:SCOTSB%3E2.0.CO;2
+
+Miller STK, Keim BD, Talbot RW, Mao H (2003) Sea breeze: Structure, forecasting, and impacts. Rev Geophys 41:1011. https://doi.org/10.1029/2003RG000124
+
+Muppa SK, Anandan VK, Kesarkar KA, Rao SVB, Reddy PN (2012) Study on deep inland penetration of sea breeze over complex terrain in the tropics. Atmospheric Research 104–105:209-216. https://doi.org/10.1016/j.atmosres.2011.10.007
+
+Nair SK, Anurose TJ, Subrahamanyam DB, KiranKumar NVP, Santosh M, Sijikumar S, Mohan M, Namboodiri KVS (2011) Characterization of the Vertical Structure of Coastal Atmospheric Boundary Layer over Thumba (8.5°N, 76.9°E) during Different Seasons. Advances in Meteorology 2011:1-9. https://doi.org/10.1155/2011/390826
+
+Narayanan V (1967) An observational study of the Sea Breeze at an Equatorial Coastal station, Mausam 18(4):497-504. https://doi.org/10.54302/mausam.v18i4.4704 
+
+
+Neumann J (1977) On the Rotation Rate of the Direction of Sea and Land Breezes. J Atmos Sci 34:1913–1917. https://doi.org/10.1175/1520-0469(1977)034<1913:OTRROT>2.0.CO;2.
+
+
+Neumann J, Mahrer Y (1974) A theoretical study of the sea and land breezes of circular islands. J Atmos Sci 31:2027–2039. https://doi.org/10.1175/1520-0469(1974)031%3C2027:ATSOTS%3E2.0.CO;2
+
+
+Noonan JA, Smith RK (1986) Sea-Breeze Circulations over Cape York Peninsula and the Generation of Gulf of Carpentaria Cloud Line Disturbances. J Atmos Sci 43:1679-1693. https://doi.org/10.1175/1520-0469(1986)043%3C1679:SBCOCY%3E2.0.CO;2
+
+North R, Schumacher C, Epifanio CC, Deranaydan G, Putra AW, Adiyasa A (2025) The Land-Sea Breeze Circulation over the West Coast of Sumatra. Mon Wea Rev 153:2295-2312. https://doi.org/10.1175/MWR-D-25-0020.1 
+
+Pacheco JR, Pacheco-Vega A, Pacheco-Vega S (2000) Analysis of density currents using the non-staggered grid fractional step method. In: Proceedings of 5th International Symposium Stratified Flows, Citeseer, 2000. ASME, pp 1135–1140.
+
+
+Papanastasiou DK, Melas D (2009) Climatology and impact on air quality of sea breeze in an urban coastal environment. Int J Climatol 29(2):305-315. https://doi.org/10.1002/joc.1707 
+
+
+Park JM, van den Heever SC, Igel AL, Grant LD, Johnson JS, Saleeby SM, Miller SD, Reid JS (2020) Environmental controls on tropical sea breeze convection and resulting aerosol redistribution. Journal of Geophysical Research: Atmospheres 125:e2019JD031699. https://doi.org/10.1029/2019JD031699
+ 
+Park M-S, Chae J-H (2018) Features of sea–land-breeze circulation over the Seoul Metropolitan Area. Geoscience Letters 5(1):1–12. https://doi.org/10.1186/S40562-018-0127-6
+Physick W, Byron-Scott RAD (1977) Observations of the sea breeze in the vicinity of a Gulf. Weather 32:373–381. https://doi.org/10.1002/j.1477-8696.1977.tb04481.x.
+
+
+Pearce RP (1955) The calculation of a sea-breeze circulation in terms of the differential heating across the coastline. QJR Meteorol Soc 81:351–381. https://doi.org/10.1002/qj.49708134906 
+
+Pearce RP, Smith RC, Malkus JS (1956) The calculation of a sea-breeze circulation in terms of the differential heating across the coast line. Theory of air flow over a heated land mass. The effects of a large island upon the trade-wind air stream. QJR Meteorol Soc 82:235–241. https://doi.org/10.1002/qj.49708235211 
+
+Planchon O, Damato F, Dubreuil V, Gouéry P (2006) A method of identifying and locating sea-breeze fronts in north-eastern Brazil by remote sensing. Met Apps 13:225–234. https://doi.org/10.1017/S1350482706002283
+
+
+Porson A, Steyn DG, Schayes G (2007) Sea-breeze scaling from numerical model simulations, Part I: Pure sea breezes. Boundary-Layer Meteorol 122(1):17–29. https://doi.org/10.1007/s10546-006-9090-4 
+
+Prezerakos NG (1986) Characteristics of the sea breeze in Attica, Greece. Boundary-Layer Meteorol 36(3):245-266. https://doi.org/10.1007/BF00118663
+ 
+Prtenjak M, Grisogono B (2007) Sea/land breeze climatological characteristics along the northern Croatian Adriatic Coast. Theor Appl Climatol 90:201–215. https://doi.org/10.1007/s00704-006-0286-9
+
+
+Ramis C, Alonso S (1988) SEA-BREEZE CONVERGENCE LINE IN MAJORCA: A satellite observation. Weather 43:288-293. https://doi.org/10.1002/j.1477-8696.1988.tb03941.x 
+ 
+Rani SI, Ramachandran R, Subrahamanyam DB, Alappattu DP, Kunhikrishnan PK (2010) Characterization of sea/land breeze circulation along the west coast of Indian sub-continent during pre-monsoon season. Atmospheric Research 95(4):367-378. https://doi.org/10.1016/j.atmosres.2009.10.009. 
+ 
+Redaño A, Cruz J, Lorente J (1991) Main features of the sea-breeze in Barcelona. Meteorol Atmos Phys 46(3):175-179. https://doi.org/10.1007/BF01027342
+ 
+Reddy TVR., Metha SK, Ananthavel A, Ali S, Annamalai V, Rao DN (2021) Seasonal characteristics of sea breeze and thermal internal boundary layer over Indian east coast region. Meteorol Atmos Phys 133:217-232. https://doi.org/10.1007/s00703-020-00746-1
+
+Renard RJ, Clarke LC (1965) Experiments in numerical objective frontal analysis. Mon Wea Rev 93(9): 547–556. https://doi.org/10.1175/1520-0493(1965)093%3C0547:EINOFA%3E2.3.CO;2 
+ 
+Rotunno R (1983) On the Linear Theory of the Land and Sea Breeze. J Atmos Sci 40: 1999–2009. https://doi.org/10.1175/1520-0469(1983)040<1999:OTLTOT>2.0.CO;2
+ 
+Roy S, Sentchev A, Fourmentin M, Augustin P (2022) Machine learning and deterministic methods for detection meteorological phenomena from ground measurements: Application for low-level jet and sea-breeze identification in northern France. Atmosphere 13:1873. https://doi.org/10.3390/atmos13111873.
+ 
+Ryznar E, Touma JS (1981) Characteristics of true lake breezes along the eastern shore of Lake Michigan. Atmospheric Environment (1967), 15(7):1201-1205. https://doi.org/10.1016/0004-6981(81)90311-5 
+
+
+Savijärvi H, Alestalo M (1988) Sea breeze over a lake or gulf as the function of the prevailing flow. Beitr. Phys. Atmos. 61:98–104
+
+
+Schmidt FH (1947) An elementary theory of the land- and sea-breeze circulation. J Atmos Sci 4: 9–20. https://doi.org/10.1175/1520-0469(1947)004%3C0009:AETOTL%3E2.0.CO;2 
+
+
+Sentchev A, Forget P, Fraunié P (2017) Surface current dynamics under sea breeze conditions observed by simultaneous HF radar, ADCP and drifter measurements. Ocean Dynamics 67(3): 499-512. https://doi.org/10.1007/s10236-017-1035-6 
+
+Sills DML, Brook JR, Levy I, Makar PA, Zhang J, Taylor PA (2011) Lake breezes in the southern Great Lakes region and their influence during BAQS-Met 2007. Atmos Chem Phys 11: 7955–7973, https://doi.org/10.5194/acp-11-7955-2011.
+
+Simpson JE (1994) Sea Breeze and Local Wind. University Press, Cambridge, p 220
+
+
+Simpson JE (1997) Gravity currents in the environment and the laboratory. Journal of Fluid Mechanics 352:376–378.
+Sokolov A, Dmitriev E, Gengembre C, Delbarre H (2020) Automated classification of regional meteorological events in a coastal area using in situ measurements. J Atmos Oceanic Technol 37: 723–739. https://doi.org/10.1175/JTECH-D-19-0120.1
+
+
+Srinivas CV, Venkatesan R, Somayaji KM, Bagavath Singh A (2006) A numerical study of sea-breeze circulation observed at a tropical site Kalpakkam on the east coast of India, under different synoptic flow situations. J Earth Syst Sci 115:557–574. https://doi.org/10.1007/BF02702909 
+
+
+Statkewicz MD, Rappenglueck B (2023) A comparative analysis of the sea breeze on the Texas Gulf Coast and its impact on precipitation. Urban Climate 49:2212-0955. https://doi.org/10.1016/j.uclim.2023.101568.
+
+
+Steele CJ, Dorling SR, von Glasow R, Bacon J (2013) Idealized WRF model sensitivity simulations of sea breeze types and their effects on offshore windfields. Atmos Chem Phys 13: 443–461. https://doi.org/10.5194/acp-13-443-2013
+
+
+Steele CJ, Dorling SR, von Glasow R, Bacon J (2015) Modelling sea-breeze climatologies and interactions on coasts in the Southern North Sea: Implications for offshore wind energy. Quart J Roy Meteor Soc 141:1821–1835. https://doi.org/10.1002/qj.2484
+
+
+Steyn DG (1998) Scaling the vertical structure of sea-breezes. Boundary Layer Meteorology 86: 505–524. https://doi.org/10.1023/A:1000743222389 
+ 
+Steyn, DG, Faulkner DA (1986) The Climatology of Sea-Breezes in the Lower Fraser Valley, B.C. Climatological Bulletin 20(3):21-39 
+ 
+Subrahamanyam DB, Anurose TJ (2011) Solar eclipse induced impacts on sea/land breeze circulation over Thumba: A case study. Journal of Atmospheric and Solar-Terrestrial Physics 73: 5-6. https://doi.org/10.1016/j.jastp.2011.01.002. 
+
+
+Svensson N, Bergström H, Rutgersson A, Sahlée E (2019) Modification of the Baltic Sea wind field by land-sea interaction. Wind Energy, 22, 764–779, https://doi.org/10.1002/we.2320
+ 
+Tijm ABC, van Delden AJ, Holtslag A (1999) The inland penetration of sea-breezes. Contributions to Atmospheric Physics 72:317–328
+
+
+Turrent C, Zaitsev O (2014) Seasonal cycle of the near-surface diurnal wind field over the bay of La Paz, Mexico. Boundary-Layer Meteorol 151:353-371. https://doi.org/10.1007/s10546-014-9908-4
+
+Verhoef A, Portabella M, Stoffelen A (2012) High-resolution ASCAT scatterometer winds near the coast. IEEE Transactions on Geoscience and Remote Sensing 50:2481-2487. https://doi.org/10.1109/TGRS.2011.2175001 
+
+
+Wakimoto RM, Atkins NT (1994) Observations of the sea-breeze front during CaPE. Part I: Single-Doppler, satellite, and cloud photogrammetry analysis. Mon Wea Rev 122:1092–1114. https://doi.org/10.1175/1520-0493(1994)122<1092:OOTSBF>2.0.CO;2.
+ 
+Watts, AJ (1955) Sea breeze at Thorney Island. Meteorol Mag 84:42-48
+
+Wang J, Miao J, Feng W (2016). An observational analysis of sea breeze characteristics over the Hainan Island. J Meteorol Sci, 36(2): 244–255 (in Chinese)
+
+Wermter J, Noble S, Viner B (2022) Impacts of the Thermal Gradient on Inland Advecting Sea Breezes in the Southeastern United States. Atmosphere 13:1004. https://doi.org/10.3390/atmos13071004.
+ 
+Williams MA, Raj KN, Rajesh AN, Kumar TVL, Rao DN (2022) Identification of Sea Breeze Onset and Its Effect on Surface Black Carbon Aerosols Over a Tropical Coastal Environment (12.81°N, 80.03°E) in India. Pure Appl Geophys 179:2993-3003. https://doi.org/10.1007/s00024-022-03102-z. 
+ 
+Wyatt LR (2022) Progress towards an HF radar wind speed measurement method using machine learning. Remote Sensing, 14(9):2098. https://doi.org/10.3390/rs14092098
+ 
+Xia G, Draxl C, Optis M, Redfern S (2022) Detecting and characterizing simulated sea breezes over the US northeastern coast with implications for offshore wind energy. Wind Energy Science, 7:815–829, https://doi.org/10.5194/wes-7-815-2022
+
+
+Xian Z, Pielke RA (1991) The effects of width of landmasses on the development of sea breezes. J Appl Meteor Climatol 30(9):1280-1304. https://doi.org/10.1175/1520-0450(1991)030%3C1280:TEOWOL%3E2.0.CO;2 
+ 
+Xiao Y, Yang J, Cui L, Deng J, Fu P, Zhu J (2023) Weakened sea-land breeze in a coastal megacity driven by urbanization and ocean warming. Earth’s Future 11:e2022EF003341. https://doi.org/10.1029/2022EF003341
+
+Yerramilli A, Srinivas CV, Dasari HP, Tuluri F, White LD, Baham JM, Young JH, Hughes R, Patrick C, Hardy MG, Swanier SJ (2009) Simulation of atmospheric dispersion of elevated releases from point sources in Mississippi Gulf coast with different meteorological data. International Journal of Environmental Research and Public Health 6(3):1055–1074. https://doi.org/10.3390/ijerph6031055 
+ 
+Zhang Y, Chen Y-L, Schroeder TA, Kodama K (2005) Numerical simulations of sea-breeze circulations over northwest Hawaii. Wea Forecasting 20:827–846. https://doi.org/10.1175/WAF859.1 
+
+
+Zhu M, Atkinson BW (2004) Observed and modelled climatology of the land–sea breeze circulation over the Persian Gulf. International Journal of Climatology: A Journal of the Royal Meteorological Society, 24(7):883-905. https://doi.org/10.1002/joc.1045
+
+
+
+
+
+Fagan M. (1988) The sea breeze circulation during the Land Sea Breeze Experiment (LASBEX) in central California.
+
+van der Wiel, K., 2013. On the Collision of Sea Breeze Gravity Currents. https://gfd.whoi.edu/wp-content/uploads/sites/18/2018/03/vanderWiel_182425.pdf
+
+Watts, A., (1965) Wind and Sailing Boats. London: Adlard Coles
+
+Buchan A (1868) Handy book of meteorology. W Blackwood and Sons p 371
+
+
+—-------
+
+
+Qian J (2008) Why Precipitation Is Mostly Concentrated over Islands in the Maritime Continent. J Atmos Sci 65:1428–1441. https://doi.org/10.1175/2007JAS2422.1 
+
+
+Ascher, B. D., Saleeby, S. M., Marinescu, P. J., & van den Heever, S. C. (2025). Forest Breeze–Cold Pool Interactions Drive Convective Organization over Heterogeneous Vegetation. Journal of the Atmospheric Sciences, 82(1), 71-94.
+
+
+
+
+Saragih IJA, Putra AW, Nugraheni IR, Rinaldy N, Yonas BW (2017) Identification of the Sea-Land Breeze Event and Influence to the Convective Activities on the Coast of Deli Serdang. IOP Conf. Ser.: Earth Environ. Sci. 98 012003
+DOI 10.1088/1755-1315/98/1/012003  
+—-----------------------------
+
+Kimble, G. H. T. (1946). Tropical Land and Sea Breezes: (With Special Reference to the East Indies). Bulletin of the American Meteorological Society, 27(3), 99–113. https://doi.org/10.1175/1520-0477-27.3.99
+
+Davis, S. R., Farrar, J. T., Weller, R. A., Jiang, H., & Pratt, L. J. (2019). The Land‐Sea Breeze of the Red Sea: Observations, Simulations, and Relationships to Regional Moisture Transport. Journal of Geophysical Research. Atmospheres, 124(24), 13803–13825. https://doi.org/10.1029/2019JD031007
+
+Sha, W., Kawamura, T., & Ueda, H. (1991). A Numerical Study on Sea/Land Breezes as a Gravity Current: Kelvin–Helmholtz Billows and Inland Penetration of the Sea-Breeze Front. Journal of the Atmospheric Sciences, 48(14), 1649–1665. https://doi.org/10.1175/1520-0469(1991)048%253C1649:ANSOSB%253E2.0.CO;2
+
+
+Lee, H.-J., Shin, H. H., Lim, K.-S. S., & Park, S.-H. (2024). Effects of horizontal resolution and updated surface data on simulated low-level winds for the aviation safety over Incheon International Airport. Atmospheric Research, 312, 107753. https://doi.org/10.1016/j.atmosres.2024.107753
+
+Niebler, S., Miltenberger, A., Schmidt, B., & Spichtinger, P. (2022). Automated detection and classification of synoptic-scale fronts from atmospheric data grids. Weather and Climate Dynamics, 3(1), 113–137. https://doi.org/10.5194/wcd-3-113-2022
+
+Huang, Y., Li, S., Zhu, Y., Liu, Y., Hong, Y., Chen, X., et al. (2025). Increasing Sea-Land Breeze Frequencies Over Coastal Areas of China in the Past Five Decades. Geophysical Research Letters, 52(4), e2024GL112480. https://doi.org/10.1029/2024GL112480
