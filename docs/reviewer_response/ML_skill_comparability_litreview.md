@@ -172,49 +172,61 @@ Even passing all four is necessary, not sufficient. Andréassian et al. (2009) n
 
 ---
 
-## 5. References (verified in this search unless marked)
+## 5. References with links
 
-- Andréassian, V., et al. (2009). Crash tests for a standardized evaluation of hydrological models. *HESS*, 13, 1757–1764.
-- Altman, D. G., & Royston, P. (2000). What do we mean by validating a prognostic model? *Statistics in Medicine*, 19, 453–473.
-- Azorin-Molina, C., et al. (2011). Development of selection algorithms and databases for sea breeze studies. *Theoretical and Applied Climatology*, 106, 531–546.
-- Bourdin, S., Fromang, S., Dulac, W., Cattiaux, J., & Chauvin, F. (2022). Intercomparison of four algorithms for detecting tropical cyclones using ERA5. *GMD*, 15, 6759–6786. doi:10.5194/gmd-15-6759-2022
-- Chicco, D., & Jurman, G. (2020). The advantages of the Matthews correlation coefficient (MCC) over F1 score and accuracy in binary classification evaluation. *BMC Genomics*, 21, 6.
-- Collins, G. S., et al. (2024). TRIPOD+AI statement. *BMJ*, 385, e078378.
-- Damen, J. A. A. G., et al. (2019). Empirical evidence of the impact of study characteristics on the performance of prediction models: a meta-epidemiological study. *BMJ Open*, 9, e026160.
-- Debray, T. P. A., et al. (2017). A guide to systematic review and meta-analysis of prediction model performance. *BMJ*, 356, i6460.
-- Doswell, C. A., Davies-Jones, R., & Keller, D. L. (1990). On summary measures of skill in rare event forecasting based on contingency tables. *Weather and Forecasting*, 5, 576–585.
-- Dueben, P. D., Schultz, M. G., Chantry, M., Gagne, D. J., Hall, D. M., & McGovern, A. (2022). Challenges and benchmark datasets for machine learning in the atmospheric sciences: Definition, status, and outlook. *Artificial Intelligence for the Earth Systems*.
-- Ferro, C. A. T., & Stephenson, D. B. (2011). Extremal dependence indices: Improved verification measures for deterministic forecasts of rare binary events. *Weather and Forecasting*, 26, 699–713.
-- Hogan, R. J., Ferro, C. A. T., Jolliffe, I. T., & Stephenson, D. B. (2010). Equitability revisited: Why the "equitable threat score" is not equitable. *Weather and Forecasting*, 25, 710–726.
-- Justice, A. C., Covinsky, K. E., & Berlin, J. A. (1999). Assessing the generalizability of prognostic information. *Annals of Internal Medicine*, 130, 515–524.
-- Kapoor, S., & Narayanan, A. (2023). Leakage and the reproducibility crisis in machine-learning-based science. *Patterns*, 4(9), 100804.
-- Kapoor, S., et al. (2024). REFORMS: Consensus-based recommendations for machine-learning-based science. *Science Advances*, 10, eadk3452.
-- Khatami, R., Mountrakis, G., & Stehman, S. V. (2016). A meta-analysis of remote sensing research on supervised pixel-based land-cover image classification processes. *Remote Sensing of Environment*, 177.
-- Klemeš, V. (1986). Operational testing of hydrological simulation models. *Hydrological Sciences Journal*, 31(1), 13–24.
-- Kratzert, F., et al. (2019). Toward improved predictions in ungauged basins: Exploiting the power of machine learning. *Water Resources Research*, 55, 11344–11354. doi:10.1029/2019WR026065
-- Leeflang, M. M. G., et al. (2013). Variation of a test's sensitivity and specificity with disease prevalence. *CMAJ*, 185(11), E537–E544. *(not re-checked in this search)*
-- Liu, X., et al. (2019). A comparison of deep learning performance against health-care professionals in detecting diseases from medical imaging: a systematic review and meta-analysis. *Lancet Digital Health*, 1(6), e271–e297.
-- Madsen, H., Pinson, P., Kariniotakis, G., Nielsen, H. A., & Nielsen, T. S. (2005). Standardizing the performance evaluation of short-term wind power prediction models. *Wind Engineering*, 29(6), 475–489.
-- Meyer, H., & Pebesma, E. (2022). Machine learning-based global maps of ecological variables and the challenge of assessing them. *Nature Communications*, 13, 2208. doi:10.1038/s41467-022-29838-9
-- Moons, K. G. M., et al. (2014). Critical appraisal and data extraction for systematic reviews of prediction modelling studies: the CHARMS checklist. *PLoS Medicine*, 11(10), e1001744. *(not re-checked in this search)*
-- Neu, U., et al. (2013). IMILAST: A community effort to intercompare extratropical cyclone detection and tracking algorithms. *BAMS*, 94(4), 529–547. doi:10.1175/BAMS-D-11-00154.1
-- Nguyen, T. N., & Müsgens, F. (2022). A meta-analysis of solar forecasting based on skill score. arXiv:2208.10536 **(preprint)**.
-- Prabhat, et al. (2021). ClimateNet: an expert-labeled open dataset and deep learning architecture for enabling high-precision analyses of extreme weather. *GMD*, 14, 107–124. doi:10.5194/gmd-14-107-2021
-- Rasp, S., et al. (2020). WeatherBench: A benchmark data set for data-driven weather forecasting. *JAMES*, 12, e2020MS002203. doi:10.1029/2020MS002203
-- Rasp, S., et al. (2024). WeatherBench 2: A benchmark for the next generation of data-driven global weather models. *JAMES*, 16. *(not re-checked in this search)*
-- Reichenbach, P., Rossi, M., Malamud, B. D., Mihir, M., & Guzzetti, F. (2018). A review of statistically-based landslide susceptibility models. *Earth-Science Reviews*, 180, 60–91. doi:10.1016/j.earscirev.2018.03.001
-- Reitsma, J. B., et al. (2005). Bivariate analysis of sensitivity and specificity produces informative summary measures in diagnostic reviews. *Journal of Clinical Epidemiology*, 58, 982–990. *(not re-checked in this search)*
-- Roberts, D. R., et al. (2017). Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure. *Ecography*, 40(8), 913–929. doi:10.1111/ecog.02881
-- Roberts, M., et al. (2021). Common pitfalls and recommendations for using machine learning to detect and prognosticate for COVID-19 using chest radiographs and CT scans. *Nature Machine Intelligence*, 3, 199–217. doi:10.1038/s42256-021-00307-0
-- Rutz, J. J., et al. (2019). The Atmospheric River Tracking Method Intercomparison Project (ARTMIP): Quantifying uncertainties in atmospheric river climatology. *JGR: Atmospheres*, 124. *(not re-checked in this search)*
-- Saito, T., & Rehmsmeier, M. (2015). The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets. *PLoS ONE*, 10(3), e0118432.
-- Shields, C. A., et al. (2018). Atmospheric River Tracking Method Intercomparison Project (ARTMIP): project goals and experimental design. *GMD*, 11, 2455–2474. doi:10.5194/gmd-11-2455-2018
-- Stephenson, D. B. (2000). Use of the "odds ratio" for diagnosing forecast skill. *Weather and Forecasting*, 15, 221–232. *(not re-checked in this search)*
-- Sweet, L., Müller, C., Anand, M., & Zscheischler, J. (2023). Cross-validation strategy impacts the performance and interpretation of machine learning models. *AIES*, 2(4), e230026. doi:10.1175/AIES-D-23-0026.1
-- Wolff, R. F., et al. (2019). PROBAST: A tool to assess the risk of bias and applicability of prediction model studies. *Annals of Internal Medicine*, 170, 51–58. *(not re-checked in this search)*
-- Yang, D., et al. (2020). Verification of deterministic solar forecasts. *Solar Energy*, 210.
+DOI links checked in this session unless marked otherwise.
 
-Cited LSB ML studies:
-- Sokolov, A., et al. (2020). Automated classification of regional meteorological events in a coastal area using in situ measurements. *J. Atmos. Oceanic Technol.*, 37(4), 723–739.
-- Roy, S., Sentchev, A., Fourmentin, M., & Augustin, P. (2022). *Atmosphere*, 13(11), 1873.
-- Bedoya-Valestt, S., et al. (2022). A deep learning approach for identifying coastal sea breezes globally. EMS Annual Meeting 2022, EMS2022-522 (abstract).
+**Cited LSB ML studies**
+- Sokolov, A., et al. (2020). Automated classification of regional meteorological events in a coastal area using in situ measurements. *J. Atmos. Oceanic Technol.*, 37(4), 723–739. https://doi.org/10.1175/JTECH-D-19-0120.1
+- Roy, S., Sentchev, A., Fourmentin, M., & Augustin, P. (2022). *Atmosphere*, 13(11), 1873. https://www.mdpi.com/2073-4433/13/11/1873
+- Bedoya-Valestt, S., et al. (2022). A deep learning approach for identifying coastal sea breezes globally. EMS Annual Meeting 2022, EMS2022-522 (abstract). https://meetingorganizer.copernicus.org/EMS2022/EMS2022-522.html
+- Possibly related to Krishnamoorthy et al. (2023): "Importance of overnight parameters to predict Sea Breeze on Long Island", arXiv:2309.01803 (authorship not confirmed). https://arxiv.org/abs/2309.01803
+- Azorin-Molina, C., Tijm, S., & Chen, D. (2011). Development of selection algorithms and databases for sea breeze studies. *Theor. Appl. Climatol.*, 106, 531–546. https://doi.org/10.1007/s00704-011-0454-4
+
+**A. Intercomparison / benchmarks**
+- Neu, U., et al. (2013). IMILAST. *BAMS*, 94(4), 529–547. https://doi.org/10.1175/BAMS-D-11-00154.1
+- Shields, C. A., et al. (2018). ARTMIP: project goals and experimental design. *GMD*, 11, 2455–2474. https://doi.org/10.5194/gmd-11-2455-2018
+- Rutz, J. J., et al. (2019). ARTMIP: Quantifying uncertainties in atmospheric river climatology. *JGR: Atmospheres*, 124, 13777–13802. https://doi.org/10.1029/2019JD030936
+- Bourdin, S., et al. (2022). Intercomparison of four algorithms for detecting tropical cyclones using ERA5. *GMD*, 15, 6759–6786. https://doi.org/10.5194/gmd-15-6759-2022
+- Rasp, S., et al. (2020). WeatherBench. *JAMES*, 12, e2020MS002203. https://doi.org/10.1029/2020MS002203
+- Rasp, S., et al. (2024). WeatherBench 2. *JAMES*, 16. (link not checked)
+- Dueben, P. D., et al. (2022). Challenges and benchmark datasets for machine learning in the atmospheric sciences. *AIES*. https://par.nsf.gov/biblio/10422671
+- Prabhat, et al. (2021). ClimateNet. *GMD*, 14, 107–124. https://doi.org/10.5194/gmd-14-107-2021
+- Kratzert, F., et al. (2019). Toward improved predictions in ungauged basins. *WRR*, 55, 11344–11354. https://doi.org/10.1029/2019WR026065
+
+**B. Within-study comparisons**
+- Khatami, R., Mountrakis, G., & Stehman, S. V. (2016). *Remote Sensing of Environment*, 177. https://researchconnect.suny.edu/en/publications/a-meta-analysis-of-remote-sensing-research-on-supervised-pixel-ba/
+- Liu, X., et al. (2019). *Lancet Digital Health*, 1(6), e271–e297. https://doaj.org/article/c73287f0c1f24d9abbb2cb81ce6add3e
+
+**C. Skill vs. reference / metrics**
+- Madsen, H., et al. (2005). Standardizing the performance evaluation of short-term wind power prediction models. *Wind Engineering*, 29(6), 475–489. https://doi.org/10.1260/030952405776234599
+- Yang, D., et al. (2020). Verification of deterministic solar forecasts. *Solar Energy*, 210, 20–37. https://doi.org/10.1016/j.solener.2020.04.019
+- Nguyen, T. N., & Müsgens, F. (2022). A meta-analysis of solar forecasting based on skill score. arXiv (preprint). https://arxiv.org/abs/2208.10536
+- Doswell, C. A., Davies-Jones, R., & Keller, D. L. (1990). *Weather and Forecasting*, 5, 576–585. https://scilit.com/publications/acec8c5c6233ab1581088ac991cfac18
+- Stephenson, D. B. (2000). Use of the "odds ratio" for diagnosing forecast skill. *Weather and Forecasting*, 15, 221–232. PDF: https://stormrisk.github.io/2000/wf2000.pdf
+- Hogan, R. J., et al. (2010). Equitability revisited. *Weather and Forecasting*, 25, 710–726. PDF: https://core.ac.uk/download/9334.pdf
+- Ferro, C. A. T., & Stephenson, D. B. (2011). Extremal dependence indices. *Weather and Forecasting*, 26, 699–713. https://ore.exeter.ac.uk/repository/handle/10871/8521
+- Saito, T., & Rehmsmeier, M. (2015). *PLoS ONE*, 10(3), e0118432. https://pmc.ncbi.nlm.nih.gov/articles/PMC4349800
+- Chicco, D., & Jurman, G. (2020). *BMC Genomics*, 21, 6. https://doi.org/10.1186/s12864-019-6413-7
+- Leeflang, M. M. G., et al. (2013). Variation of a test's sensitivity and specificity with disease prevalence. *CMAJ*, 185(11), E537–E544. https://doi.org/10.1503/cmaj.121286
+
+**D. Validation design / transfer**
+- Klemeš, V. (1986). Operational testing of hydrological simulation models. *Hydrol. Sci. J.*, 31(1), 13–24. https://agris.fao.org/search/en/records/65df636b63b8185d9cacb2f4
+- Andréassian, V., et al. (2009). Crash tests for a standardized evaluation of hydrological models. *HESS*, 13, 1757–1764. PDF: https://opac.geologie.ac.at/ais312/dokumente/copernicus.org/hess-13-1757-2009.pdf
+- Justice, A. C., Covinsky, K. E., & Berlin, J. A. (1999). *Ann. Intern. Med.*, 130(6), 515–524. https://doi.org/10.7326/0003-4819-130-6-199903160-00016
+- Altman, D. G., & Royston, P. (2000). What do we mean by validating a prognostic model? *Stat. Med.*, 19, 453–473. https://ora.ox.ac.uk/objects/uuid:add14c28-8561-45a9-9cc7-4b00258b0929
+- Roberts, D. R., et al. (2017). Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure. *Ecography*, 40(8), 913–929. https://doi.org/10.1111/ecog.02881
+- Sweet, L., et al. (2023). Cross-validation strategy impacts the performance and interpretation of ML models. *AIES*, 2(4), e230026. https://doi.org/10.1175/AIES-D-23-0026.1
+- Meyer, H., & Pebesma, E. (2022). *Nature Communications*, 13, 2208. https://doi.org/10.1038/s41467-022-29838-9
+- Kapoor, S., & Narayanan, A. (2023). Leakage and the reproducibility crisis in ML-based science. *Patterns*. https://pmc.ncbi.nlm.nih.gov/articles/PMC10499856
+
+**E. Review practice / reporting standards**
+- Debray, T. P. A., et al. (2017). A guide to systematic review and meta-analysis of prediction model performance. *BMJ*, 356, i6460. https://doi.org/10.1136/bmj.i6460
+- Damen, J. A. A. G., et al. (2019). *BMJ Open*, 9, e026160. https://www.rti.org/publication/empirical-evidence-impact-study-characteristics-performance-prediction-models-meta-epidemiological-s
+- Reitsma, J. B., et al. (2005). *J. Clin. Epidemiol.*, 58(10), 982–990. https://doi.org/10.1016/j.jclinepi.2005.02.022
+- Moons, K. G. M., et al. (2014). CHARMS checklist. *PLoS Medicine*, 11(10), e1001744. https://doi.org/10.1371/journal.pmed.1001744
+- Wolff, R. F., et al. (2019). PROBAST. *Ann. Intern. Med.*, 170(1), 51–58. https://doi.org/10.7326/M18-1376
+- Reichenbach, P., et al. (2018). A review of statistically-based landslide susceptibility models. *Earth-Science Reviews*, 180, 60–91. https://doi.org/10.1016/j.earscirev.2018.03.001
+- Roberts, M., et al. (2021). *Nature Machine Intelligence*, 3, 199–217. https://doi.org/10.1038/s42256-021-00307-0
+- Kapoor, S., et al. (2024). REFORMS. *Science Advances*. https://reforms.cs.princeton.edu/
+- Collins, G. S., et al. (2024). TRIPOD+AI. *BMJ*, 385, e078378. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11025451/
