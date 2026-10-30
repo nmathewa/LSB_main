@@ -182,6 +182,7 @@ DOI links checked in this session unless marked otherwise.
 - Bedoya-Valestt, S., et al. (2022). A deep learning approach for identifying coastal sea breezes globally. EMS Annual Meeting 2022, EMS2022-522 (abstract). https://meetingorganizer.copernicus.org/EMS2022/EMS2022-522.html
 - Possibly related to Krishnamoorthy et al. (2023): "Importance of overnight parameters to predict Sea Breeze on Long Island", arXiv:2309.01803 (authorship not confirmed). https://arxiv.org/abs/2309.01803
 - Azorin-Molina, C., Tijm, S., & Chen, D. (2011). Development of selection algorithms and databases for sea breeze studies. *Theor. Appl. Climatol.*, 106, 531–546. https://doi.org/10.1007/s00704-011-0454-4
+- Brown, A., Vincent, C., & Short, E. (2026). Identifying sea breezes from atmospheric model output (sea_breeze v1.1). *GMD*, 19, 933–953. https://doi.org/10.5194/gmd-19-933-2026
 
 **A. Intercomparison / benchmarks**
 - Neu, U., et al. (2013). IMILAST. *BAMS*, 94(4), 529–547. https://doi.org/10.1175/BAMS-D-11-00154.1

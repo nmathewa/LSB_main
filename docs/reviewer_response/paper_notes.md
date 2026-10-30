@@ -202,3 +202,41 @@ This is the only (sub)tropical study among those cited. Sokolov and Roy are both
 - The abstract claims deep CNNs as a universal method and a ~40-year global SB database. No metrics or validation are reported.
 - No peer-reviewed follow-up found (searched Oct 2026).
 - **Decision:** remove from the skill synthesis (Section 3.4.1 text and Table X). Optionally mention once in the outlook / Recommendation v as an unpublished effort towards a global method, flagged as a conference abstract.
+
+---
+
+## Supporting reference: Brown, Vincent & Short (2026)
+
+*Identifying sea breezes from atmospheric model output (sea_breeze v1.1).* Geosci. Model Dev., 19, 933–953. https://doi.org/10.5194/gmd-19-933-2026 (peer-reviewed; not ML)
+
+### What it does
+
+- **Diagnostics:** applies three physically based sea-breeze diagnostics consistently across the whole Australian coastline (mid-latitude, tropical and topographic coasts):
+  - sea breeze index, SBI (Hallgren et al. 2023; circulation-based)
+  - moisture frontogenesis, F
+  - hourly rate of change of T, q and onshore wind, H (Coceal et al. 2018)
+- **Datasets:** four model datasets at different resolutions: ERA5 (~25 km), BARRA-R (12 km), BARRA-C (4 km), AUS2200 (2.2 km). Austral summer (Jan–Feb 2013, 2016, 2018).
+- **Coastline orientation:** objective, per grid point (Sec. 3.1). Removes the need for site-specific onshore sectors.
+- **Thresholds:** dataset-relative, at the **99.5th percentile** of each diagnostic per dataset (Table 1). Thresholds adapt to each dataset's distribution and resolution.
+- **Common filters for all regions:** orientation within 45° of the coast, aspect ratio > 2, area ≥ 12 px, positive land–sea ΔT, positive onshore wind (Table 2).
+- **Evaluation:** qualitative, because no labelled ground truth exists at continental scale:
+  - case studies with Himawari visible imagery and station winds (Perth, Darwin, SE Australia)
+  - occurrence statistics vs. expectations and earlier point studies
+  - the H diagnostic applied to 712 automatic weather stations and compared with the models (Supplement)
+  - agreement between independent front-based (F) and circulation-based (SBI) diagnostics, used as a confidence measure
+
+### Key statements usable in the review
+
+- "There is currently a lack of robust and generalizable identification methods, resulting in difficulties analyzing sea breeze characteristics over large regions" (Abstract).
+- Local "filtering" methods are optimised for small regions with consistent coastline orientation, which limits continental or global use (Sec. 1).
+- Sea breezes can be difficult, or impossible, to separate from convective cold pools, synoptic fronts and topographic flows (Sec. 1, 4, 6).
+- **Regime dependence:** mid-latitude cases (Perth) are consistent across models and diagnostics. Tropical cases (Darwin) vary considerably, linked to deep convection and smaller-scale coastlines. Uniform filters can remove small tropical-island breezes (Sec. 4.2, 6).
+- Verification is limited by the lack of a high-resolution observational network with sufficient coverage (Sec. 6).
+- Recommends moisture frontogenesis F for convection-permitting output (≤ 4 km).
+
+### Use in the reply / revised text
+
+1. **Gap statement:** peer-reviewed support for "no standard, generalisable reference exists". It replaces Bedoya-Valestt et al. (2022) for this point.
+2. **Regime argument:** independent evidence that identification is harder and less consistent in the tropics. This supports not comparing Dunkerque and Gujarat results directly.
+3. **Recommendation v:** a precedent for one consistent method across regions (objective coastline orientation, dataset-relative thresholds, multi-diagnostic agreement). This could provide common multi-region reference labels for an ML benchmark, with the caveat that they are model-derived and not observations.
+4. **Evaluation-protocol paragraph:** an example of evaluating without labelled truth: agreement between independent diagnostics, plus independent observations (satellite cloud lines, station winds).
