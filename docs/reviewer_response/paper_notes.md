@@ -192,3 +192,13 @@ Internal split only, at one site and in one year. The split type is unknown and 
 ### Regime note
 
 This is the only (sub)tropical study among those cited. Sokolov and Roy are both mid-latitude (Dunkerque).
+
+---
+
+## 4. Bedoya-Valestt et al. (2022)
+
+*A deep learning approach for identifying coastal sea breezes globally.* EMS Annual Meeting 2022, EMS2022-522 (**conference abstract**; no poster, paper or evaluation available). https://meetingorganizer.copernicus.org/EMS2022/EMS2022-522.html
+
+- The abstract claims deep CNNs as a universal method and a ~40-year global SB database. No metrics or validation are reported.
+- No peer-reviewed follow-up found (searched Oct 2026).
+- **Decision:** remove from the skill synthesis (Section 3.4.1 text and Table X). Optionally mention once in the outlook / Recommendation v as an unpublished effort towards a global method, flagged as a conference abstract.
