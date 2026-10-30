@@ -240,3 +240,5 @@ This is the only (sub)tropical study among those cited. Sokolov and Roy are both
 2. **Regime argument:** independent evidence that identification is harder and less consistent in the tropics. This supports not comparing Dunkerque and Gujarat results directly.
 3. **Recommendation v:** a precedent for one consistent method across regions (objective coastline orientation, dataset-relative thresholds, multi-diagnostic agreement). This could provide common multi-region reference labels for an ML benchmark, with the caveat that they are model-derived and not observations.
 4. **Evaluation-protocol paragraph:** an example of evaluating without labelled truth: agreement between independent diagnostics, plus independent observations (satellite cloud lines, station winds).
+
+**Decision:** not used in Section 3.4.1 (AI/ML on observations), because the method is applied to model output. Cite it in the section on identification methods / model-based approaches instead.
