@@ -138,3 +138,57 @@ PSS and κ are the same under either reading; precision is not.
 ### Correction to earlier notes
 
 Earlier estimates (PSS ≈ 0.92, precision ≈ 0.81, base rate 0.20) assumed the 95 % accuracy was over all 730 days. It is over Apr–Sep 2019 only (182 days). Use the values above.
+
+---
+
+## 3. Krishnamoorthy, Sharma, Namboodiri & Goyal (2023)
+
+*A machine learning approach to forecast wind speed, turbulence intensity, and sea breeze for offshore wind farm applications.* SSRN 4620501. **Preprint, not peer reviewed** (watermark on every page). https://ssrn.com/abstract=4620501
+
+**Correction to earlier notes:** this study is **not** on Long Island. The arXiv paper 2309.01803 is unrelated. The site is the Gulf of Khambhat, Gujarat, India.
+
+### Design
+
+| Item | What the paper did | Where |
+|---|---|---|
+| Site / regime | NIWE offshore lidar, Gulf of Khambhat, Amreli district, Gujarat, India (20.775° N, 71.669° E): **subtropical monsoon coast**, one site | Sec. 2 |
+| Data | Lidar, **one year from Nov 2017**, 10-min intervals, 80 m height. RH, T, p and wind direction also used | Sec. 2 |
+| Labels | **Rule-based criteria** (citing Azorin-Molina et al. 2011): wind direction 225–270°; direction change < 120°; TI > 0.12; wind-speed difference > 2; RH > 65 %; RH difference > 5; 10–18 h | Sec. 2.2 |
+| Predictors (SB) | RH, temperature, **wind direction, wind speed** | Sec. 2 |
+| Task | Binary SB classification. Described as "forecasted hourly" (Sec. 4), but the SVM section describes classes as "days". **Unit unclear**; lead time not stated | Sec. 3.3, 4 |
+| Split | 70 % train / 30 % test. **Random vs. chronological not stated** | Sec. 3 |
+| Imbalance | SVM class weights 1:10 | Sec. 3.3 |
+| Models | XGBoost, Random Forest, Gradient Boosting, SVM (RBF) | Sec. 4 |
+
+### Reported results
+
+- ROC AUC (Fig. 10): XGBoost **0.980**, RF 0.971, GB 0.955, SVM 0.925.
+- XGBoost confusion matrix (Fig. 11): TN 309, FP 6, FN 1, TP 40 (n = 356).
+- Precision 0.87, recall 0.98, F1 0.92.
+
+### Derived scores (*derived* from Fig. 11)
+
+| Base rate | H | F | **PSS** | κ | **Precision** | Accuracy (no-skill) |
+|---|---|---|---|---|---|---|
+| 0.115 (41 / 356) | 0.98 | 0.02 | **0.96** | 0.91 | **0.87** | 0.98 (0.88) |
+
+### Critical points
+
+1. **Circularity.** The labels are defined by thresholds on wind direction, wind speed and RH (plus TI, which derives from wind-speed variability). The classifier is then given wind direction, wind speed, RH and temperature as inputs. AUC 0.98 therefore largely measures how well the model **re-learns the labelling rule from the same variables**, not sea-breeze detection against an independent reference.
+2. **Test-set size.** n = 356 does not match 30 % of one year at daily (≈ 110), hourly (≈ 2,630) or 10-min (≈ 15,800) resolution, but it is close to one year of days. The paper does not explain this, so it is **unclear whether Fig. 11 is the held-out test set**.
+3. **Split design.** Not stated. With a random split of a time series, neighbouring samples can fall in both training and test sets.
+4. **No baseline and no independent reference.** Nothing is compared against the labelling rule itself, against climatology, or against another instrument. No second period or site.
+5. **No uncertainty** (single split, no confidence intervals). The classifier differences (AUC 0.93–0.98) cannot be judged.
+6. **Possible physical point for the author to judge:** the sea-breeze sector (225–270°) coincides with the SW monsoon flow at this coast. The other criteria (RH, speed change, 10–18 h) may or may not separate the two. Not discussed in the paper.
+
+### Within-study result (valid to report)
+
+On the same data and split, XGBoost had the highest AUC (0.98), ahead of RF (0.97), GB (0.96) and SVM (0.93). No uncertainty is given.
+
+### Validation level
+
+Internal split only, at one site and in one year. The split type is unknown and the labels are rule-based from overlapping inputs. This is the lowest validation level of the three studies.
+
+### Regime note
+
+This is the only (sub)tropical study among those cited. Sokolov and Roy are both mid-latitude (Dunkerque).
