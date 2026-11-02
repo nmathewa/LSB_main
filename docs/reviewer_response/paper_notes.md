@@ -242,3 +242,34 @@ This is the only (sub)tropical study among those cited. Sokolov and Roy are both
 4. **Evaluation-protocol paragraph:** an example of evaluating without labelled truth: agreement between independent diagnostics, plus independent observations (satellite cloud lines, station winds).
 
 **Decision:** not used in Section 3.4.1 (AI/ML on observations), because the method is applied to model output. Cite it in the section on identification methods / model-based approaches instead.
+
+---
+
+## 5. Allagbe, Guedje, Arnaud & Quenum (2025)
+
+*An automatic detection algorithm for sea breeze fronts: a case study over the Gulf of Guinea in West Africa.* Atmospheric and Climate Sciences, 15(2), 330–361. https://doi.org/10.4236/acs.2025.152017 (peer-reviewed, open access)
+
+### What it does
+
+| Item | Details | Where |
+|---|---|---|
+| Region | Gulf of Guinea coast, West Africa (2° S–10° N, 8° W–10° E) | Sec. 2.1 |
+| Data | MSG SEVIRI visible images (VIS0.8, HRV), 15 min, **DJF 2013–2018**; ERA5 for two case days | Sec. 2.2 |
+| Detection | **Morphological snake**: active contour (Chan–Vese ACWE) evolved with morphological dilation and erosion in a region of interest 1.8° inland, with adaptive reflectance thresholds. **Not ML**; nothing is trained | Sec. 2.3.1–2.3.3 |
+| "Regression" | Curve fitting of the detected cloud-leading-edge centroids at each hour (isochrones), comparing **linear, cubic polynomial, moving average and kwLPR** (kernel-weighted local polynomial regression, a non-parametric local least-squares smoother). **Not ML** | Sec. 2.3.4, 3.2 |
+| Error metric | **Mean absolute distance error (MAE, degrees)** against a **piecewise-linear line through the same centroids** (the reference). The abstract says "RMSE"; the body, Table 2 and the conclusions say MAE | Eq. 8, Table 2 |
+| Result | kwLPR **0.0034°** (hourly 0.0021–0.0054°), MA **0.021°**, PolyCubic **0.056°** (linear 0.064° at 15 UTC, Fig. 10) | Table 2 |
+| Why kwLPR "wins" | It is local, so it follows the bending reference line most closely. That is almost by construction, given that the reference is a line through the same points. The authors chose the curve "subjectively closest to reality" | Sec. 2.3.4, 3.2.1 |
+| Penetration | 12 Jan 2017: up to 146.3 km, average 103.17 km (one day) | Fig. 11 |
+| Climatology | 170 SBF days in DJF 2013–2018 (Dec 41, Jan 34, Feb 95); onset mostly 09–12 UTC, cessation 15–18 UTC | Table 3, Sec. 3.3 |
+| Validation | Demonstrated on **two case days** (12 Jan 2017, 7 Feb 2018). No independent verification of detected fronts | Sec. 3.1, 4 |
+| Limits | Only fronts marked by visible cumulus lines; clear-sky SBFs missed; daytime only | Sec. 4 |
+
+Ferdiansyah et al. ([34], [39] in Allagbe) applied a morphological snake to Himawari-8 visible images earlier (Jakarta), so the method isn't new. Allagbe et al. are the first to apply it to MSG over the Gulf of Guinea.
+
+### Implications for the manuscript
+
+- **Not an AI/ML study.** Move it from Section 3.4.2 (unsupervised learning) to the satellite-based detection section (3.3), next to Ferdiansyah et al.
+- **Table S1:** reclassify from "AI/ML – Clustering" to satellite / automated cloud-line detection, and remove the duplicate row (Reviewer 3, minor 1).
+- **0.0034 is an MAE in degrees** against a piecewise-linear reference through the same points. It is a goodness-of-fit, not detection accuracy.
+- With Allagbe moved, the unsupervised-ML subsection has no example.
