@@ -273,3 +273,14 @@ Ferdiansyah et al. ([34], [39] in Allagbe) applied a morphological snake to Hima
 - **Table S1:** reclassify from "AI/ML – Clustering" to satellite / automated cloud-line detection, and remove the duplicate row (Reviewer 3, minor 1).
 - **0.0034 is an MAE in degrees** against a piecewise-linear reference through the same points. It is a goodness-of-fit, not detection accuracy.
 - With Allagbe moved, the unsupervised-ML subsection has no example.
+
+---
+
+## Update: journal version of Krishnamoorthy et al.
+
+Selvarajan L, Amarnath K, Senthil Kumar S, Satish N, Palanisamy A, Umamaheswari S, Kasthuri N (2026) Machine learning-based short-term forecasting of wind speed, turbulence intensity, and sea breeze for offshore wind farm applications. Clean Energy zkag059. https://doi.org/10.1093/ce/zkag059 (published 7 Sep 2026, per the OUP RIS export)
+
+- **Same study.** The abstract repeats the preprint's numbers: RF wind-speed RMSE 0.172 m/s; LSTM TI RMSE 0.0196, MAE 0.0139, R² 0.922; multi-step RMSE 1.249 m/s and 0.0575; 14 % more power during sea breeze.
+- **Changed:** XGBoost sea-breeze **AUC = 0.93** (preprint: 0.98). Precision 0.87, recall 0.98 and F1 0.92 are unchanged, so the 309 / 6 / 1 / 40 confusion matrix (TSS 0.96, precision 0.87) very likely still holds. Confirm in the PDF.
+- **Random forest AUC in the journal version is not known** (preprint: 0.971). Drop the "narrowly ahead of random forest" comparison unless it is confirmed.
+- **Author name:** the RIS file gives the surname as **Amarnath** (given name Krishnamoorthy), so the reference reads "Amarnath K".

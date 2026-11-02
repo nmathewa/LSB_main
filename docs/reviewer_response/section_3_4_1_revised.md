@@ -1,6 +1,6 @@
 # Section 3.4: revised text (AI/ML), current draft
 
-Keep your own subsection headings. Krishnamoorthy et al. is marked as a preprint; update the citation if you switch to the *Clean Energy* version.
+Keep your own subsection headings. Krishnamoorthy et al. (2023, SSRN preprint) is now cited as its journal version, Selvarajan et al. (2026, *Clean Energy*).
 
 ## 3.4.1 Supervised learning
 
@@ -12,7 +12,7 @@ Sokolov et al. (2020) tested four supervised classifiers on in-situ observations
 
 Roy et al. (2022) trained a recurrent neural network (RNN) with long short-term memory (LSTM) units on sea-breeze days labelled by their rule-based detector, using two years (2018–2019) of surface measurements at Dunkirk. Its 95% accuracy on a held-out year measures how well the network reproduces the rule-based detector; in an independent lidar check, it detected 22 of 25 sea-breeze events (88%).
 
-Krishnamoorthy et al. (2023, preprint) trained random forest, gradient boosting, extreme gradient boosting (XGBoost; sequentially built, regularised decision trees, each correcting the errors of the previous ones) and SVM classifiers on rule-based sea-breeze labels from offshore lidar in the Gulf of Khambhat, India. XGBoost performed best, with an area under the receiver operating characteristic curve (AUC) of 0.98, narrowly ahead of random forest (0.97). This is plausibly because tree-based threshold splits closely reproduce threshold-based labels. Since the labels were built largely from the model's input variables, the score mainly reflects how well the model reproduces the labelling criteria.
+Selvarajan et al. (2026) trained random forest, gradient boosting, extreme gradient boosting (XGBoost; sequentially built, regularised decision trees, each correcting the errors of the previous ones) and SVM classifiers on rule-based sea-breeze labels from offshore lidar in the Gulf of Khambhat, India. XGBoost performed best, with an area under the receiver operating characteristic curve (AUC) of 0.93, plausibly because tree-based threshold splits closely reproduce threshold-based labels. Since the labels were built largely from the model's input variables, the score mainly reflects how well the model reproduces the labelling criteria.
 
 All three studies use a single site, two of them in Dunkirk, and none tests a model at another coastline, so their transferability remains untested (Recommendation v).
 
