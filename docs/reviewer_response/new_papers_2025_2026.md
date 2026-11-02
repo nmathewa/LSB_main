@@ -6,7 +6,7 @@ Search date: Oct 2026, web search only (search snippets, no full texts). Items m
 
 | # | Item | Status | Why it matters | Action |
 |---|---|---|---|---|
-| A1 | Krishnamoorthy et al., "Machine Learning-Based Short-Term Forecasting of Wind Speed, Turbulence Intensity, and Sea Breeze for Offshore Wind Farm Applications", *Clean Energy* (OUP), advance article, doi:10.1093/ce/zkag059 | ✔ Confirmed (Oct 2026): accepted manuscript on Oxford Academic, authors listed as Krishnamoorthy A, Sharma D, Goyal R; final year/issue not confirmed | Possibly the peer-reviewed version of SSRN 4620501. If so, cite it instead of the preprint and re-check the sea-breeze evaluation (numbers may differ) | **Get PDF** (https://academic.oup.com/ce/advance-article-pdf/doi/10.1093/ce/zkag059/70983941/zkag059.pdf) |
+| A1 | Krishnamoorthy et al., "Machine Learning-Based Short-Term Forecasting of Wind Speed, Turbulence Intensity, and Sea Breeze for Offshore Wind Farm Applications", *Clean Energy* (OUP), advance article, doi:10.1093/ce/zkag059 | ✘ **Not the same work** (user checked the PDF, Nov 2026): the Clean Energy paper is by different authors. The 'Krishnamoorthy A, Sharma D, Goyal R' match came from a reference inside it, not its author list. Krishnamoorthy et al. remains an SSRN preprint | Possibly the peer-reviewed version of SSRN 4620501. If so, cite it instead of the preprint and re-check the sea-breeze evaluation (numbers may differ) | No action. Keep citing SSRN 4620501 with a preprint flag |
 | A2 | "UNet-based methods for identifying Chicago lake breeze fronts from NEXRAD", AGU Fall Meeting 2025, A43R-2375 | Conference abstract | ResNet/UNet on more than 7,000 radar scans. Labels: hand-drawn fronts on Micronet-flagged days. P/R/F1 > 0.96 (preliminary). One site | Same status as Bedoya-Valestt (abstract). At most a one-line outlook mention |
 | A3 | Hong Kong Observatory, probabilistic forecast of runway headwind changes (sea-breeze effect), ICAO APAC MET/R WG/14 slides (2025) | Grey literature | Operational ML use at an airport. No methods or validation given | Optional mention as operational use; not evidence |
 
@@ -31,6 +31,6 @@ Search date: Oct 2026, web search only (search snippets, no full texts). Items m
 
 ## Bottom line
 
-- No new peer-reviewed study comparable to the three was found for 2025–2026, apart from the possible journal version of Krishnamoorthy et al. (A1).
+- No new peer-reviewed study comparable to the three was found for 2025–2026, (A1 turned out to be a different paper by other authors).
 - No ML study evaluates at more than one site.
 - This supports stating the thin evidence base as a gap in the field.
